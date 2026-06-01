@@ -80,6 +80,15 @@ model_params:
       estimate_sigma_data: true # estimate sigma_data from the current batch if set to true
       mean: -3.0
       std: 1.0
+
+  cde:
+    enabled: false
+    hidden_channels: 256
+    interpolation: linear
+    solver: reversible_heun
+    dt: 1.0
+    atol: 1e-5
+    rtol: 1e-5
   
 loss_params:
     lambda_mel: 5. # mel reconstruction loss
