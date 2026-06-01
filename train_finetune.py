@@ -182,6 +182,19 @@ def main(config_path):
         else:
             raise ValueError("You need to specify the path to the first stage model.")
 
+    mocha_cde_only = bool(config.get("mocha_cde_only", False))
+    if mocha_cde_only:
+        if "cde" not in model:
+            raise ValueError(
+                "mocha_cde_only=true requires model_params.cde.enabled=true"
+            )
+        for key in model:
+            for p in model[key].parameters():
+                p.requires_grad = False
+        for p in model["cde"].parameters():
+            p.requires_grad = True
+        print("Mocha CDE-only mode enabled: all modules frozen except cde")
+
     gl = GeneratorLoss(model.mpd, model.msd).to(device)
     dl = DiscriminatorLoss(model.mpd, model.msd).to(device)
     wl = WavLMLoss(model_params.slm.model, model.wd, sr, model_params.slm.sr).to(device)
@@ -205,27 +218,47 @@ def main(config_path):
         "epochs": epochs,
         "steps_per_epoch": len(train_dataloader),
     }
-    scheduler_params_dict = {key: scheduler_params.copy() for key in model}
-    scheduler_params_dict["bert"]["max_lr"] = optimizer_params.bert_lr * 2
-    scheduler_params_dict["decoder"]["max_lr"] = optimizer_params.ft_lr * 2
-    scheduler_params_dict["style_encoder"]["max_lr"] = optimizer_params.ft_lr * 2
+    trainable_modules = {
+        key: [p for p in model[key].parameters() if p.requires_grad] for key in model
+    }
+    trainable_modules = {
+        key: params for key, params in trainable_modules.items() if len(params) > 0
+    }
+    if mocha_cde_only and set(trainable_modules.keys()) != {"cde"}:
+        raise RuntimeError(
+            "mocha_cde_only expected only cde to be trainable, got: "
+            + ", ".join(sorted(trainable_modules.keys()))
+        )
+
+    scheduler_params_dict = {key: scheduler_params.copy() for key in trainable_modules}
+    if "bert" in scheduler_params_dict:
+        scheduler_params_dict["bert"]["max_lr"] = optimizer_params.bert_lr * 2
+    if "decoder" in scheduler_params_dict:
+        scheduler_params_dict["decoder"]["max_lr"] = optimizer_params.ft_lr * 2
+    if "style_encoder" in scheduler_params_dict:
+        scheduler_params_dict["style_encoder"]["max_lr"] = optimizer_params.ft_lr * 2
+    if "cde" in trainable_modules:
+        scheduler_params_dict["cde"]["max_lr"] = optimizer_params.ft_lr * 2
 
     optimizer = build_optimizer(
-        {key: model[key].parameters() for key in model},
+        trainable_modules,
         scheduler_params_dict=scheduler_params_dict,
         lr=optimizer_params.lr,
     )
 
     # adjust BERT learning rate
-    for g in optimizer.optimizers["bert"].param_groups:
-        g["betas"] = (0.9, 0.99)
-        g["lr"] = optimizer_params.bert_lr
-        g["initial_lr"] = optimizer_params.bert_lr
-        g["min_lr"] = 0
-        g["weight_decay"] = 0.01
+    if "bert" in optimizer.optimizers:
+        for g in optimizer.optimizers["bert"].param_groups:
+            g["betas"] = (0.9, 0.99)
+            g["lr"] = optimizer_params.bert_lr
+            g["initial_lr"] = optimizer_params.bert_lr
+            g["min_lr"] = 0
+            g["weight_decay"] = 0.01
 
     # adjust acoustic module learning rate
-    for module in ["decoder", "style_encoder"]:
+    for module in ["decoder", "style_encoder", "cde"]:
+        if module not in optimizer.optimizers:
+            continue
         for g in optimizer.optimizers[module].param_groups:
             g["betas"] = (0.0, 0.99)
             g["lr"] = optimizer_params.ft_lr
@@ -538,6 +571,8 @@ def main(config_path):
 
             optimizer.step("text_encoder")
             optimizer.step("text_aligner")
+            if "cde" in model:
+                optimizer.step("cde")
 
             if epoch >= diff_epoch:
                 optimizer.step("diffusion")
@@ -611,6 +646,8 @@ def main(config_path):
                     optimizer.step("bert")
                     optimizer.step("predictor")
                     optimizer.step("diffusion")
+                    if "cde" in model:
+                        optimizer.step("cde")
 
                     # SLM discriminator loss
                     if d_loss_slm != 0:

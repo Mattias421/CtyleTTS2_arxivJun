@@ -213,6 +213,8 @@ def main(config_path):
     scheduler_params_dict["bert"]["max_lr"] = optimizer_params.bert_lr * 2
     scheduler_params_dict["decoder"]["max_lr"] = optimizer_params.ft_lr * 2
     scheduler_params_dict["style_encoder"]["max_lr"] = optimizer_params.ft_lr * 2
+    if "cde" in model:
+        scheduler_params_dict["cde"]["max_lr"] = optimizer_params.ft_lr * 2
 
     optimizer = build_optimizer(
         {key: model[key].parameters() for key in model},
@@ -546,6 +548,8 @@ def main(config_path):
 
             optimizer.step("text_encoder")
             optimizer.step("text_aligner")
+            if "cde" in model:
+                optimizer.step("cde")
 
             if epoch >= diff_epoch:
                 optimizer.step("diffusion")
@@ -619,6 +623,8 @@ def main(config_path):
                     optimizer.step("bert")
                     optimizer.step("predictor")
                     optimizer.step("diffusion")
+                    if "cde" in model:
+                        optimizer.step("cde")
 
                     # SLM discriminator loss
                     if d_loss_slm != 0:

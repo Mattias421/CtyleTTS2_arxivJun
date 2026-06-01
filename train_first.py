@@ -351,6 +351,8 @@ def main(config_path):
             optimizer.step("text_encoder")
             optimizer.step("style_encoder")
             optimizer.step("decoder")
+            if "cde" in model:
+                optimizer.step("cde")
 
             if epoch >= TMA_epoch:
                 optimizer.step("text_aligner")
@@ -429,7 +431,10 @@ def main(config_path):
                 # encode
                 t_en = model.text_encoder(texts, input_lengths, text_mask)
                 t_en = maybe_apply_cde(
-                    model, t_en, text_mask, durations=s2s_attn.sum(axis=-1).detach()
+                    model,
+                    t_en,
+                    text_mask,
+                    durations=s2s_attn_mono.sum(axis=-1).detach(),
                 )
 
                 asr = t_en @ s2s_attn

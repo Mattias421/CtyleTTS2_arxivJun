@@ -878,9 +878,8 @@ def maybe_apply_cde(model, t_en, text_mask, durations=None):
     cde = getattr(model, "cde", None)
     if cde is None:
         return t_en
-    return cde(
-        t_en, (~text_mask).unsqueeze(1).to(dtype=t_en.dtype), durations=durations
-    )
+    valid_mask = (~text_mask).unsqueeze(1).float()
+    return cde(t_en, valid_mask, durations=durations)
 
 
 def load_checkpoint(model, optimizer, path, load_only_params=True, ignore_modules=[]):

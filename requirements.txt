@@ -15,4 +15,5 @@ tqdm
 typing
 typing-extensions
 torchcde
+torchsde
 git+https://github.com/resemble-ai/monotonic_align.git

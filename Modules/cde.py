@@ -1,5 +1,6 @@
 import torch
 import torch.nn as nn
+import torch.nn.functional as F
 
 try:
     import torchcde
@@ -34,16 +35,76 @@ class _CDEFunc(nn.Module):
         super().__init__()
         self.input_channels = int(input_channels)
         self.hidden_channels = int(hidden_channels)
-        self.net = nn.Sequential(
-            nn.Linear(hidden_channels, hidden_channels),
-            nn.SiLU(),
-            nn.Linear(hidden_channels, hidden_channels * input_channels),
+        self.unet = UNet1D(
+            in_channels=1,
+            mid_channels=self.hidden_channels,
+            out_channels=self.input_channels,
         )
 
     def forward(self, t, z):
         del t
-        out = self.net(z)
-        return out.view(z.shape[0], self.hidden_channels, self.input_channels)
+        input_dtype = z.dtype
+        z_in = z.unsqueeze(1).to(dtype=torch.float32)
+        z_mask = torch.ones(
+            (z_in.shape[0], 1, z_in.shape[-1]), device=z.device, dtype=z_in.dtype
+        )
+        vf = self.unet(z_in, z_mask)
+        vf = vf.transpose(1, 2).contiguous()
+        return vf.to(dtype=input_dtype)
+
+
+class ConvBlock1D(nn.Module):
+    def __init__(self, in_channels, out_channels, groups=8):
+        super().__init__()
+        self.conv = nn.Conv1d(in_channels, out_channels, kernel_size=3, padding=1)
+        self.norm = nn.GroupNorm(groups, out_channels)
+        self.act = nn.SiLU()
+
+    def forward(self, x, mask):
+        y = self.conv(x)
+        y = self.norm(y)
+        y = self.act(y)
+        return y * mask
+
+
+class UNet1D(nn.Module):
+    def __init__(self, in_channels, mid_channels, out_channels):
+        super().__init__()
+        self.mid_channels = int(mid_channels)
+        groups = self._groups_for(self.mid_channels)
+        self.in_block = ConvBlock1D(in_channels, self.mid_channels, groups=groups)
+        self.down = nn.Conv1d(
+            self.mid_channels, self.mid_channels, kernel_size=4, stride=2, padding=1
+        )
+        self.mid_block = ConvBlock1D(
+            self.mid_channels, self.mid_channels, groups=groups
+        )
+        self.up = nn.ConvTranspose1d(
+            self.mid_channels, self.mid_channels, kernel_size=4, stride=2, padding=1
+        )
+        self.out_block = ConvBlock1D(
+            2 * self.mid_channels, self.mid_channels, groups=groups
+        )
+        self.proj = nn.Conv1d(self.mid_channels, out_channels, kernel_size=1)
+
+    @staticmethod
+    def _groups_for(channels):
+        for g in (8, 4, 2, 1):
+            if channels % g == 0:
+                return g
+        return 1
+
+    def forward(self, x, mask):
+        x0 = self.in_block(x, mask)
+        d = self.down(x0)
+        d_mask = F.interpolate(mask, size=d.shape[-1], mode="nearest")
+        m = self.mid_block(d, d_mask)
+        u = self.up(m)
+        if u.shape[-1] != x0.shape[-1]:
+            u = F.interpolate(u, size=x0.shape[-1], mode="nearest")
+        h = torch.cat([x0, u], dim=1)
+        h = self.out_block(h, mask)
+        return self.proj(h) * mask
 
 
 class NeuralCDE(nn.Module):
@@ -67,22 +128,17 @@ class NeuralCDE(nn.Module):
         self.atol = float(atol)
         self.rtol = float(rtol)
 
-        self.init = nn.Sequential(
-            nn.Conv1d(
-                self.input_channels, self.hidden_channels, kernel_size=3, padding=1
-            ),
-            nn.SiLU(),
-            nn.Conv1d(
-                self.hidden_channels, self.hidden_channels, kernel_size=3, padding=1
-            ),
+        self.initial_unet = UNet1D(
+            in_channels=self.input_channels,
+            mid_channels=self.hidden_channels,
+            out_channels=self.hidden_channels,
         )
+        self.init_rf = 8
         self.func = _CDEFunc(self.input_channels, self.hidden_channels)
-        self.readout = nn.Sequential(
-            nn.Conv1d(
-                self.hidden_channels, self.hidden_channels, kernel_size=3, padding=1
-            ),
-            nn.SiLU(),
-            nn.Conv1d(self.hidden_channels, self.channels, kernel_size=1),
+        self.readout_unet = UNet1D(
+            in_channels=self.hidden_channels,
+            mid_channels=self.hidden_channels,
+            out_channels=self.channels,
         )
 
     def forward(self, x, mask, durations=None):
@@ -114,7 +170,11 @@ class NeuralCDE(nn.Module):
             coeffs = torchcde.natural_cubic_spline_coeffs(path)
             X = torchcde.NaturalCubicSpline(coeffs)
 
-        z0 = self.init(path.transpose(1, 2))[:, :, 0]
+        rf = min(self.init_rf, path.shape[1])
+        init_x = path[:, :rf, :].transpose(1, 2)
+        init_mask = torch.ones((b, 1, rf), device=x.device, dtype=compute_dtype)
+        init_feats = self.initial_unet(init_x, init_mask)
+        z0 = init_feats[:, :, -1]
         t_grid = torch.linspace(
             float(X.interval[0]),
             float(X.interval[1]),
@@ -139,6 +199,8 @@ class NeuralCDE(nn.Module):
             kwargs["options"] = {"step_size": self.dt}
 
         z_t = torchcde.cdeint(**kwargs)
-        y = self.readout(z_t.transpose(1, 2))
+        if isinstance(z_t, tuple):
+            z_t = z_t[0]
+        y = self.readout_unet(z_t.transpose(1, 2), mask_t.unsqueeze(1))
         y = y * mask.to(dtype=y.dtype)
         return y.to(dtype=out_dtype)
