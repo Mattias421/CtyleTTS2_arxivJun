@@ -31,6 +31,10 @@ that approach is neither balanced nor duration-controlled.
 
 ## Generate manifests
 
+The validated seed-1234 manifests and their metadata are committed in
+`Data/`. Regenerate them with the command below when the source corpus or
+split policy changes.
+
 Run this where both the processed wav tree and original transcript tree are
 available:
 
@@ -38,7 +42,7 @@ available:
 python3 scripts/create_esd_splits.py \
   --esd-root /store/store2/data/ESD \
   --transcript-root /store/store2/data/ESD_og \
-  --out-dir /store/store2/data/ESD/minute_splits \
+  --out-dir Data \
   --path-prefix ESD \
   --seed 1234
 ```
