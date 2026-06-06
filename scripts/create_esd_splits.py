@@ -335,7 +335,7 @@ def validate_splits(splits: dict[str, list[Utterance]]) -> None:
             raise ValueError(f"{split_name} is not nested with the smaller training split")
         previous_paths = paths
 
-        target_minutes = int(split_name.removeprefix("train_").removesuffix("m"))
+        target_minutes = int(split_name[len("train_") : -1])
         for speaker in ENGLISH_SPEAKERS:
             speaker_records = [
                 record for record in records if record.speaker == speaker
