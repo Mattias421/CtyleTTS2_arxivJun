@@ -1,0 +1,1105 @@
+ESD/0011/Angry/0011_000402.wav|fɹʌm ˈɔːɡəst ˈeɪtiːnθ, ʌv ðɛɹ dᵻvˈoːɹs.|0
+ESD/0011/Happy/0011_000991.wav|ðɪ ˈɛnd ʌv fˈɛbɹuːˌɛɹi fˈoːɹtiːnθ.|0
+ESD/0011/Neutral/0011_000003.wav|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.|0
+ESD/0011/Sad/0011_001385.wav|bˌʌt θˈɪŋz hˈævənt tʃˈeɪndʒ jˈɛt.|0
+ESD/0011/Surprise/0011_001664.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|0
+ESD/0011/Angry/0011_000599.wav|juː mˈeɪ ɪmˈædʒɪn hˌaʊ aɪ ɡˈeɪp.|0
+ESD/0011/Happy/0011_000931.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|0
+ESD/0011/Neutral/0011_000349.wav|wˌʌt dˈuː juː θˈɪŋk ʌv ðɪs kwˈɛstʃən?|0
+ESD/0011/Sad/0011_001152.wav|ðɪs ɪz dʒˈæk, ðə ɹˈɛlətˌɪvz ʌv tˈɑːm.|0
+ESD/0011/Surprise/0011_001651.wav|ðə lˈeɪdɪbˌʌɡ tˈoʊld ðˌɛm pɹˈaʊdli.|0
+ESD/0011/Angry/0011_000511.wav|ðæts ɐ fˈʊl ɡɹˈoʊn kˈoʊlt.|0
+ESD/0011/Happy/0011_000922.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|0
+ESD/0011/Neutral/0011_000281.wav|hiː kʊd nˌɑːt hˈɛlp dˌuːɪŋ sˈoʊ.|0
+ESD/0011/Sad/0011_001400.wav|dˈuː juː hæv ˈɛnɪθˌɪŋ ɪn mˈaɪnd?|0
+ESD/0011/Surprise/0011_001551.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|0
+ESD/0011/Angry/0011_000458.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt.|0
+ESD/0011/Happy/0011_000744.wav|tˈeɪk kˈɜːɹɪdʒ ˈɔːl ˌɪzənt lˈɔst jˈɛt.|0
+ESD/0011/Neutral/0011_000015.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|0
+ESD/0011/Sad/0011_001143.wav|tə bˈaɪ tˈuː pˈoːɹk tʃˈɑːps.|0
+ESD/0011/Surprise/0011_001470.wav|tˈɑːm nˈaʊ lˈɛt ˌaʊɚɹ ˈæɹoʊz flˈaɪ!|0
+ESD/0011/Angry/0011_000621.wav|aɪ sˈeɪ aɪ wɪl biː ˈɛmpɚɹɚ.|0
+ESD/0011/Happy/0011_000739.wav|ˌaʊɚ θˈæŋks tə ɡˈɑːdz ˈoʊθ.|0
+ESD/0011/Neutral/0011_000279.wav|ðiːz wˈɜːdz bᵻhˌaɪnd ðɪ ˈɪɹz ɪz nˈɑːnsəns.|0
+ESD/0011/Sad/0011_001260.wav|ɪt wˈeɪz sˈɛvən pˈɔɪnt fˈaɪv kˈɪləɡɹˌæm.|0
+ESD/0011/Surprise/0011_001468.wav|aɪ duːnˌɑːt ˈiːt bɹˈɛd.|0
+ESD/0011/Angry/0011_000429.wav|ˈɔːl maɪ ɡˈʌm tˈɪps ɡɔn æz wˈɛl.|0
+ESD/0011/Happy/0011_000871.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|0
+ESD/0011/Neutral/0011_000162.wav|aɪ lˈɛnt dʒˈɔːɹdʒ θɹˈiː pˈaʊndz.|0
+ESD/0011/Surprise/0011_001519.wav|ðɪ ˈaʊl flˈuː ˌɪntʊ ɐ bˈʊʃ.|0
+ESD/0011/Sad/0011_001281.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|0
+ESD/0011/Angry/0011_000375.wav|ʃiː ɪz nˈaʊ tʃˈuːzɪŋ skˈɜːt tə wˈɛɹ.|0
+ESD/0011/Happy/0011_000969.wav|bˌʌt ʃˈoʊ mˌiː nˈaʊ jʊɹ mˈæp!|0
+ESD/0011/Neutral/0011_000199.wav|kˈæptɪn tˈɑːm ɹᵻsˈiːvz ɐn ˈæŋɡɹi lˈɛɾɚ.|0
+ESD/0011/Sad/0011_001204.wav|hiː dɹˈɛmpt ðˌɛm ˈɔːl nˈaɪt.|0
+ESD/0011/Surprise/0011_001536.wav|ʃiː hɐz ˈiːʔn̩ ðə tˌæpɪˈoʊkə ˈɔːl ʌv ɪt.|0
+ESD/0011/Angry/0011_000650.wav|sˈɪks wʌz hˈæf wˈeɪ dˌaʊn ðə ɹˈuːm.|0
+ESD/0011/Happy/0011_000975.wav|juː ʃˌʊdənthəv pɹˈɪkt hˌɪm wɪð jʊɹ hˈɔːɹn.|0
+ESD/0011/Neutral/0011_000185.wav|ðə nˈuː bˈɔːɹn bˈeɪbi ɪz stˈoʊlən æz wiː ɡˈoʊ.|0
+ESD/0011/Sad/0011_001072.wav|ænd wʌt ɑːɹ dˈoʊvz. ænd wʌt ɑːɹ dˈoʊvz.|0
+ESD/0011/Surprise/0011_001710.wav|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn.|0
+ESD/0011/Angry/0011_000401.wav|sˈɛd ðɪ ɐmˈɛɹɪkən tə tʃaɪnˈiːz.|0
+ESD/0011/Happy/0011_000845.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|0
+ESD/0011/Neutral/0011_000330.wav|ʃiː kˈiːps sˈeɪɪŋ aɪm hˈɜːz.|0
+ESD/0011/Sad/0011_001146.wav|aɪ dˈoʊnt pˈeɪntᵻd tˈaɪɡɚ.|0
+ESD/0011/Surprise/0011_001704.wav|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd!|0
+ESD/0011/Angry/0011_000542.wav|aɪ hæv hædtə ɡɹˈoʊ ˈoʊld.|0
+ESD/0011/Happy/0011_001018.wav|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks.|0
+ESD/0011/Neutral/0011_000245.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|0
+ESD/0011/Sad/0011_001267.wav|juː kɹˈuːəlti ʃˌæl kˈɔst jʊɹ lˈaɪf !|0
+ESD/0011/Surprise/0011_001433.wav|ðɪs jˈuːzd təbi dʒˈɛɹiz ˌɑːkjʊpˈeɪʃən.|0
+ESD/0011/Happy/0011_001023.wav|hˌuː aɪ dˈɪd wˈeɪk ˈʌp!|0
+ESD/0011/Sad/0011_001071.wav|æz ɹˈɪtʃ æz pˈiːɾɚz sˈʌn ɪn lˈɔː!|0
+ESD/0011/Surprise/0011_001466.wav|ʃˌæl wiː lˈɛt bˈɑːɹbɚɹə ˈɪn?|0
+ESD/0011/Angry/0011_000501.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|0
+ESD/0011/Neutral/0011_000222.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|0
+ESD/0011/Happy/0011_000732.wav|hˌuː ɪz ɹᵻpˈiːɾɪŋ ˈɔːl ðæt hˈɑːɹd stˈʌf tə juː?|0
+ESD/0011/Neutral/0011_000252.wav|aɪɐm ɹˈʌn ˈɔf maɪ fˈiːt.|0
+ESD/0011/Surprise/0011_001478.wav|ðɪ ˈɑːɹt kwˈaɪt sˈeɪf wɪð mˌiː.|0
+ESD/0011/Angry/0011_000521.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|0
+ESD/0011/Sad/0011_001065.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|0
+ESD/0011/Angry/0011_000475.wav|tə kˈætʃ ðæt bˈʊlɹʌʃ ɹˈuːt wɪð maɪ pˈɔː!|0
+ESD/0011/Happy/0011_000897.wav|fˈɜː flˈuː θɹuː ðɪ ˈɛɹ, tˈiːθ nˈæʃt.|0
+ESD/0011/Neutral/0011_000123.wav|aɪɐm fɹʌm tˈaʊəl lˈænd.|0
+ESD/0011/Sad/0011_001345.wav|aɪ nˈoʊ hˌaʊ tʊ oʊbˈeɪ ˈɔːɹdɚz.|0
+ESD/0011/Surprise/0011_001540.wav|wˌʌt ɐn ɪmpˈɛtʃuːəs bˈɔɪ hiː ɪz!|0
+ESD/0011/Angry/0011_000524.wav|aɪ pˈeɪ hˈæf ɐ kɹˈaʊn ɐ wˈiːk ˈɛkstɹə.|0
+ESD/0011/Happy/0011_000759.wav|zˈiəɹoʊ fˈoːɹ θɹˈiː ɐ sˈɪlvɚ ʃˈɪlɪŋ ɪz dʒˈɜːni.|0
+ESD/0011/Neutral/0011_000115.wav|hiː mˌaɪt kˈɔːl ɪt, fɔːɹ ɛɡzˈæmpəl.|0
+ESD/0011/Sad/0011_001188.wav|bˌʌt wˈʌn ɹᵻkwˈaɪɚz ðɪ ɛksplˈoːɹɚ tə fˈɜːnɪʃ pɹˈuːfs.|0
+ESD/0011/Surprise/0011_001441.wav|aɪ tʃˈoʊz ðə ɹˈaɪt wˈeɪ.|0
+ESD/0011/Angry/0011_000666.wav|ɐ θˈiːf ɪnðə nˈaɪt.|0
+ESD/0011/Neutral/0011_000319.wav|hˌaʊ kʊd aɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz?|0
+ESD/0011/Sad/0011_001103.wav|hiː wʌz stˈɪl ɪnðə fˈɔːɹɪst!|0
+ESD/0011/Surprise/0011_001579.wav|dˈeɪzi kɹˈiːmz wɪð pˈɪŋk ˈɛdʒᵻz.|0
+ESD/0011/Happy/0011_000964.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|0
+ESD/0011/Angry/0011_000388.wav|hˈoʊld ˌʌp maɪ tʃˈɪn, slˈoʊ ænd sˈɑːlɪd.|0
+ESD/0011/Happy/0011_000982.wav|ˈælɪs aɪ woʊnt fɚɡˈɛt ɪɾ ɐɡˈɛn.|0
+ESD/0011/Neutral/0011_000077.wav|bˌʌt aɪ sˈɔː juː wˈɔːkɪŋ.|0
+ESD/0011/Surprise/0011_001722.wav|ɐ spˈɛʃəl pˈɑːt tˈuː.|0
+ESD/0011/Sad/0011_001295.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|0
+ESD/0011/Angry/0011_000603.wav|aɪ hæv ɐ sˈuːθseɪɚ.|0
+ESD/0011/Happy/0011_000962.wav|aɪ bᵻlˈiːv juː ɑːɹ wˈʌn ʌv ðˌɛm!|0
+ESD/0011/Neutral/0011_000313.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs.|0
+ESD/0011/Sad/0011_001282.wav|wɪl kˈɔːl hɜː lˈɪli, fɔːɹ ʃˈɔːɹt.|0
+ESD/0011/Surprise/0011_001618.wav|aɪl sˈɛnd fɔːɹ tˈɑːm tə maɪ bˈuːdwɑːɹ.|0
+ESD/0011/Angry/0011_000395.wav|ðə nˈæstiɪst θˈɪŋz ðeɪ sˈɔː wɜː ðə kˈɑːbwɛbz.|0
+ESD/0011/Happy/0011_000714.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː!|0
+ESD/0011/Neutral/0011_000195.wav|ɐ bˈoʊt pˌʊt ˈaʊt ɔnðə bˈeɪ.|0
+ESD/0011/Surprise/0011_001647.wav|ʃiː ænd ˈaɪ ɑːɹ ɹˈʌnɪŋ ɐ nˈɛk ænd nˈɛk ɹˈeɪs.|0
+ESD/0011/Sad/0011_001195.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|0
+ESD/0011/Angry/0011_000640.wav|ðɛɹ ɡoʊz ðə ʃˈɔːl ɐɡˈɛn!|0
+ESD/0011/Happy/0011_000762.wav|tˈɑːm, wɛnt ˌɔn ˈiːjoːɹ ɡlˈuːmili.|0
+ESD/0011/Neutral/0011_000342.wav|wˌaɪ ʃˌʊd aɪ pˈɜːtʃɪs maɪ ˈoʊn?|0
+ESD/0011/Sad/0011_001151.wav|ɪts mˌiː pˈɪɡlɪt, hˈɛlp hˈɛlp!|0
+ESD/0011/Surprise/0011_001628.wav|ɪt sˈɛz nˈoʊ wˈeɪ! ʃˈaʊɾᵻd dˈeɪzi.|0
+ESD/0011/Angry/0011_000605.wav|ðɪs wʌzðə twˈɛnti fˈɪfθ ʌv noʊvˈɛmbɚ, sˈɛvəntˌiːn ˈeɪɾi θɹˈiː.|0
+ESD/0011/Happy/0011_000720.wav|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.|0
+ESD/0011/Neutral/0011_000150.wav|aɪ hˈoʊp juː ɛndʒˈɔɪd joːɹsˈɛlf?|0
+ESD/0011/Sad/0011_001060.wav|ɐ nˈɔːsɪəs dɹˈæft.|0
+ESD/0011/Surprise/0011_001517.wav|ðeɪ wɜː tʃˈɪldɹən ʌv mˈaɪn.|0
+ESD/0011/Angry/0011_000623.wav|aɪd dʒˈʌst æz sˈuːn swˈɪm jʊɹ wˈeɪ æz ˈʌðɚz dˈuː.|0
+ESD/0011/Happy/0011_000712.wav|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.|0
+ESD/0011/Neutral/0011_000176.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl.|0
+ESD/0011/Sad/0011_001264.wav|bˌʌt wʌt ɐbˌaʊt ðɪs θˈɪŋ, stˈɪki!|0
+ESD/0011/Surprise/0011_001732.wav|wˌɛɹ ɑːɹ juː ɡˈoʊɪŋ?|0
+ESD/0011/Angry/0011_000407.wav|hˈænɪbəl kˈeɪm tə sˈiː juː.|0
+ESD/0011/Neutral/0011_000285.wav|ðə stɹˈɔː, tʃˈɑːɹkoʊl ænd ðə pˈiː.|0
+ESD/0011/Sad/0011_001254.wav|ðə sˈɔŋ ɪz ɹˈiəli lˈaʊdɪŋ ˌɔn ɐ ɡˈeɪt.|0
+ESD/0011/Happy/0011_001013.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs.|0
+ESD/0011/Surprise/0011_001576.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðætðə bˈɛst smˈaɪl.|0
+ESD/0011/Happy/0011_000758.wav|ðɪ ˈɑːktəpəs hɐz ˈeɪt lˈɛɡz.|0
+ESD/0011/Neutral/0011_000002.wav|aɪ dˈɪd ɡˈoʊ, ænd mˌeɪd mˈɛni pɹˈɪzənɚz.|0
+ESD/0011/Surprise/0011_001416.wav|mˈɪstɚ ʃˈɛɹ mˈæn, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.|0
+ESD/0011/Angry/0011_000364.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː!|0
+ESD/0011/Sad/0011_001158.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt.|0
+ESD/0011/Angry/0011_000618.wav|hiː ʃˈoʊd nˈoʊ sˈaɪnz ʌv ˈeɪdʒ.|0
+ESD/0012/Angry/0012_000402.wav|fɹʌm ˈɔːɡəst ˈeɪtiːnθ, ʌv ðɛɹ dᵻvˈoːɹs.|1
+ESD/0012/Happy/0012_000991.wav|ðɪ ˈɛnd ʌv fˈɛbɹuːˌɛɹi fˈoːɹtiːnθ.|1
+ESD/0012/Neutral/0012_000003.wav|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.|1
+ESD/0012/Sad/0012_001385.wav|bˌʌt θˈɪŋz hˈævənt tʃˈeɪndʒ jˈɛt.|1
+ESD/0012/Surprise/0012_001664.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|1
+ESD/0012/Angry/0012_000599.wav|juː mˈeɪ ɪmˈædʒɪn hˌaʊ aɪ ɡˈeɪp.|1
+ESD/0012/Happy/0012_000931.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|1
+ESD/0012/Neutral/0012_000349.wav|wˌʌt dˈuː juː θˈɪŋk ʌv ðɪs kwˈɛstʃən?|1
+ESD/0012/Sad/0012_001152.wav|ðɪs ɪz dʒˈæk, ðə ɹˈɛlətˌɪvz ʌv tˈɑːm.|1
+ESD/0012/Surprise/0012_001651.wav|ðə lˈeɪdɪbˌʌɡ tˈoʊld ðˌɛm pɹˈaʊdli.|1
+ESD/0012/Angry/0012_000511.wav|ðæts ɐ fˈʊl ɡɹˈoʊn kˈoʊlt.|1
+ESD/0012/Happy/0012_000922.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|1
+ESD/0012/Neutral/0012_000281.wav|hiː kʊd nˌɑːt hˈɛlp dˌuːɪŋ sˈoʊ.|1
+ESD/0012/Sad/0012_001400.wav|dˈuː juː hæv ˈɛnɪθˌɪŋ ɪn mˈaɪnd?|1
+ESD/0012/Surprise/0012_001551.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|1
+ESD/0012/Angry/0012_000458.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt.|1
+ESD/0012/Happy/0012_000744.wav|tˈeɪk kˈɜːɹɪdʒ ˈɔːl ˌɪzənt lˈɔst jˈɛt.|1
+ESD/0012/Neutral/0012_000015.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|1
+ESD/0012/Sad/0012_001143.wav|tə bˈaɪ tˈuː pˈoːɹk tʃˈɑːps.|1
+ESD/0012/Surprise/0012_001470.wav|tˈɑːm nˈaʊ lˈɛt ˌaʊɚɹ ˈæɹoʊz flˈaɪ!|1
+ESD/0012/Angry/0012_000621.wav|aɪ sˈeɪ aɪ wɪl biː ˈɛmpɚɹɚ.|1
+ESD/0012/Happy/0012_000739.wav|ˌaʊɚ θˈæŋks tə ɡˈɑːdz ˈoʊθ.|1
+ESD/0012/Neutral/0012_000279.wav|ðiːz wˈɜːdz bᵻhˌaɪnd ðɪ ˈɪɹz ɪz nˈɑːnsəns.|1
+ESD/0012/Sad/0012_001260.wav|ɪt wˈeɪz sˈɛvən pˈɔɪnt fˈaɪv kˈɪləɡɹˌæm.|1
+ESD/0012/Surprise/0012_001468.wav|aɪ duːnˌɑːt ˈiːt bɹˈɛd.|1
+ESD/0012/Angry/0012_000429.wav|ˈɔːl maɪ ɡˈʌm tˈɪps ɡɔn æz wˈɛl.|1
+ESD/0012/Happy/0012_000871.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|1
+ESD/0012/Neutral/0012_000162.wav|aɪ lˈɛnt dʒˈɔːɹdʒ θɹˈiː pˈaʊndz.|1
+ESD/0012/Surprise/0012_001519.wav|ðɪ ˈaʊl flˈuː ˌɪntʊ ɐ bˈʊʃ.|1
+ESD/0012/Sad/0012_001281.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|1
+ESD/0012/Angry/0012_000375.wav|ʃiː ɪz nˈaʊ tʃˈuːzɪŋ skˈɜːt tə wˈɛɹ.|1
+ESD/0012/Happy/0012_000969.wav|bˌʌt ʃˈoʊ mˌiː nˈaʊ jʊɹ mˈæp!|1
+ESD/0012/Neutral/0012_000199.wav|kˈæptɪn tˈɑːm ɹᵻsˈiːvz ɐn ˈæŋɡɹi lˈɛɾɚ.|1
+ESD/0012/Sad/0012_001204.wav|hiː dɹˈɛmpt ðˌɛm ˈɔːl nˈaɪt.|1
+ESD/0012/Surprise/0012_001536.wav|ʃiː hɐz ˈiːʔn̩ ðə tˌæpɪˈoʊkə ˈɔːlʌv ɪt.|1
+ESD/0012/Angry/0012_000650.wav|sˈɪks wʌz hˈæf wˈeɪ dˌaʊn ðə ɹˈuːm.|1
+ESD/0012/Happy/0012_000975.wav|juː ʃˌʊdənthəv pɹˈɪkt hˌɪm wɪð jʊɹ hˈɔːɹn.|1
+ESD/0012/Neutral/0012_000185.wav|ðə nˈuː bˈɔːɹn bˈeɪbi ɪz stˈoʊlən æz wiː ɡˈoʊ.|1
+ESD/0012/Sad/0012_001072.wav|ænd wʌt ɑːɹ dˈoʊvz. ænd wʌt ɑːɹ dˈoʊvz.|1
+ESD/0012/Surprise/0012_001710.wav|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn.|1
+ESD/0012/Angry/0012_000401.wav|sˈɛd ðɪ ɐmˈɛɹɪkən tə tʃaɪnˈiːz.|1
+ESD/0012/Happy/0012_000845.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|1
+ESD/0012/Neutral/0012_000330.wav|ʃiː kˈiːps sˈeɪɪŋ aɪm hˈɜːz.|1
+ESD/0012/Sad/0012_001146.wav|aɪ dˈoʊnt pˈeɪntᵻd tˈaɪɡɚ.|1
+ESD/0012/Surprise/0012_001704.wav|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd!|1
+ESD/0012/Angry/0012_000542.wav|aɪ hæv hædtə ɡɹˈoʊ ˈoʊld.|1
+ESD/0012/Happy/0012_001018.wav|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks.|1
+ESD/0012/Neutral/0012_000245.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|1
+ESD/0012/Sad/0012_001267.wav|juː kɹˈuːəlti ʃˌæl kˈɔst jʊɹ lˈaɪf !|1
+ESD/0012/Surprise/0012_001433.wav|ðɪs jˈuːzd təbi dʒˈɛɹiz ˌɑːkjʊpˈeɪʃən.|1
+ESD/0012/Happy/0012_001023.wav|wˌaɪ dˈɪd aɪ wˈeɪk ˈʌp!|1
+ESD/0012/Sad/0012_001071.wav|æz ɹˈɪtʃæz pˈiːɾɚz sˈʌn ɪn lˈɔː!|1
+ESD/0012/Surprise/0012_001466.wav|ʃˌæl wiː lˈɛt bˈɑːɹbɚɹə ˈɪn?|1
+ESD/0012/Angry/0012_000501.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|1
+ESD/0012/Neutral/0012_000222.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|1
+ESD/0012/Happy/0012_000732.wav|hˌuː ɪz bˌɪn ɹᵻpˈiːɾɪŋ ˈɔːl ðæt hˈɑːɹd stˈʌf tə juː?|1
+ESD/0012/Neutral/0012_000252.wav|aɪɐm ɹˈʌn ˈɔf maɪ fˈiːt.|1
+ESD/0012/Surprise/0012_001478.wav|ðɪ ˈɑːɹt kwˈaɪt sˈeɪf wɪð mˌiː.|1
+ESD/0012/Angry/0012_000521.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|1
+ESD/0012/Sad/0012_001065.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|1
+ESD/0012/Angry/0012_000475.wav|tə kˈætʃ ðæt bˈʊlɹʌʃ ɹˈuːt wɪð maɪ pˈɔː!|1
+ESD/0012/Happy/0012_000897.wav|fˈɜː flˈuː θɹuː ðɪ ˈɛɹ, tˈiːθ nˈæʃt.|1
+ESD/0012/Neutral/0012_000123.wav|aɪɐm fɹʌm tˈaʊəl lˈænd.|1
+ESD/0012/Sad/0012_001345.wav|aɪ nˈoʊ hˌaʊ tʊ oʊbˈeɪ ˈɔːɹdɚz.|1
+ESD/0012/Surprise/0012_001540.wav|wˌʌt ɐn ɪmpˈɛtʃuːəs bˈɔɪ hiː ɪz!|1
+ESD/0012/Angry/0012_000524.wav|aɪ pˈeɪ hˈæf ɐ kɹˈaʊn ɐ wˈiːk ˈɛkstɹə.|1
+ESD/0012/Happy/0012_000759.wav|zˈiəɹoʊ fˈoːɹ θɹˈiː ɐ sˈɪlvɚ ʃˈɪlɪŋ ɪz dʒˈɜːni.|1
+ESD/0012/Neutral/0012_000115.wav|hiː mˌaɪt kˈɔːl ɪt, fɔːɹ ɛɡzˈæmpəl.|1
+ESD/0012/Sad/0012_001188.wav|bˌʌt wˈʌn ɹᵻkwˈaɪɚz ðɪ ɛksplˈoːɹɚ tə fˈɜːnɪʃ pɹˈuːfs.|1
+ESD/0012/Surprise/0012_001441.wav|aɪ tʃˈoʊz ðə ɹˈaɪt wˈeɪ.|1
+ESD/0012/Angry/0012_000666.wav|ɐ θˈiːf ɪnðə nˈaɪt.|1
+ESD/0012/Neutral/0012_000319.wav|hˌaʊ kʊd aɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz?|1
+ESD/0012/Sad/0012_001103.wav|hiː wʌz stˈɪl ɪnðə fˈɔːɹɪst!|1
+ESD/0012/Surprise/0012_001579.wav|dˈeɪzi kɹˈiːmz wɪð pˈɪŋk ˈɛdʒᵻz.|1
+ESD/0012/Happy/0012_000964.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|1
+ESD/0012/Angry/0012_000388.wav|hˈoʊld ˌʌp maɪ tʃˈɪn, slˈoʊ ænd sˈɑːlɪd.|1
+ESD/0012/Happy/0012_000982.wav|ˈælɪs aɪ woʊnt fɚɡˈɛt ɪɾ ɐɡˈɛn.|1
+ESD/0012/Neutral/0012_000077.wav|bˌʌt aɪ sˈɔː juː wˈɔːkɪŋ.|1
+ESD/0012/Surprise/0012_001722.wav|ɐ spˈɛʃəl pˈɑːt tˈuː.|1
+ESD/0012/Sad/0012_001295.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|1
+ESD/0012/Angry/0012_000603.wav|aɪ hæv ɐ sˈuːθseɪɚ.|1
+ESD/0012/Happy/0012_000962.wav|aɪ bᵻlˈiːv juː ɑːɹ wˈʌn ʌv ðˌɛm!|1
+ESD/0012/Neutral/0012_000313.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs.|1
+ESD/0012/Sad/0012_001282.wav|wɪl kˈɔːl hɜː lˈɪli, fɔːɹ ʃˈɔːɹt.|1
+ESD/0012/Surprise/0012_001618.wav|aɪl sˈɛnd fɔːɹ tˈɑːm tə maɪ bˈuːdwɑːɹ.|1
+ESD/0012/Angry/0012_000395.wav|ðə nˈæstiɪst θˈɪŋz ðeɪ sˈɔː wɜː ðə kˈɑːbwɛbz.|1
+ESD/0012/Happy/0012_000714.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː!|1
+ESD/0012/Neutral/0012_000195.wav|ɐ bˈoʊt pˌʊt ˈaʊtɔnðə bˈeɪ.|1
+ESD/0012/Surprise/0012_001647.wav|ʃiː ænd ˈaɪ ɑːɹ ɹˈʌnɪŋ ɐ nˈɛk ænd nˈɛk ɹˈeɪs.|1
+ESD/0012/Sad/0012_001195.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|1
+ESD/0012/Angry/0012_000640.wav|ðɛɹ ɡoʊz ðə ʃˈɔːl ɐɡˈɛn!|1
+ESD/0012/Happy/0012_000762.wav|tˈɑːm, wɛnt ˌɔn ˈiːjoːɹ ɡlˈuːmili.|1
+ESD/0012/Neutral/0012_000342.wav|wˌaɪ ʃˌʊd aɪ pˈɜːtʃɪs maɪ ˈoʊn?|1
+ESD/0012/Sad/0012_001151.wav|ɪts mˌiː pˈɪɡlɪt, hˈɛlp hˈɛlp!|1
+ESD/0012/Surprise/0012_001628.wav|ɪt sˈɛz nˈoʊ wˈeɪ! ʃˈaʊɾᵻd dˈeɪzi.|1
+ESD/0012/Angry/0012_000605.wav|ðɪs wʌzðə twˈɛnti fˈɪfθ ʌv noʊvˈɛmbɚ, sˈɛvəntˌiːn ˈeɪɾi θɹˈiː.|1
+ESD/0012/Happy/0012_000720.wav|æt ðə ɹˈuːtsəvə bˈʊʃ əvə ɡɹˈæs.|1
+ESD/0012/Neutral/0012_000150.wav|aɪ hˈoʊp juː ɛndʒˈɔɪd joːɹsˈɛlf?|1
+ESD/0012/Sad/0012_001060.wav|ɐ nˈɔːsɪəs dɹˈæft.|1
+ESD/0012/Surprise/0012_001517.wav|ðeɪ wɜː tʃˈɪldɹən ʌv mˈaɪn.|1
+ESD/0012/Angry/0012_000623.wav|aɪd dʒˈʌst æz sˈuːn swˈɪm jʊɹ wˈeɪ æz ˈʌðɚz dˈuː.|1
+ESD/0012/Happy/0012_000712.wav|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.|1
+ESD/0012/Neutral/0012_000176.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl.|1
+ESD/0012/Sad/0012_001264.wav|bˌʌt wʌt ɐbˌaʊt ðɪs θˈɪŋ, stˈɪki!|1
+ESD/0012/Surprise/0012_001732.wav|wˌɛɹ ɑːɹ juː ɡˈoʊɪŋ?|1
+ESD/0012/Angry/0012_000407.wav|hˈænɪbəl kˈʌm tə sˈiː juː.|1
+ESD/0012/Neutral/0012_000285.wav|ðə stɹˈɔː, tʃˈɑːɹkoʊl ænd ðə pˈiː.|1
+ESD/0012/Sad/0012_001254.wav|ðə sˈɔŋ ɪz ɹˈiəli lˈaʊdɪŋ ˌɔn ɐ ɡˈeɪt.|1
+ESD/0012/Happy/0012_001013.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs.|1
+ESD/0012/Surprise/0012_001576.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl.|1
+ESD/0012/Happy/0012_000758.wav|ðɪ ˈɑːktəpəs hɐz ˈeɪt lˈɛɡz.|1
+ESD/0012/Neutral/0012_000002.wav|aɪ dˈɪd ɡˈoʊ, ænd mˌeɪd mˈɛni pɹˈɪzənɚz.|1
+ESD/0013/Angry/0013_000402.wav|fɹʌm ˈɔːɡəst ˈeɪtiːnθ, ɔːɹ ðɛɹ dᵻvˈoːɹs.|2
+ESD/0013/Happy/0013_000991.wav|ðɪ ˈɛnd ʌv fˈɛbɹuːˌɛɹi fˈoːɹtiːnθ.|2
+ESD/0013/Neutral/0013_000003.wav|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.|2
+ESD/0013/Sad/0013_001385.wav|bˌʌt θˈɪŋz hˈævənt tʃˈeɪndʒ jˈɛt.|2
+ESD/0013/Surprise/0013_001664.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|2
+ESD/0013/Angry/0013_000599.wav|juː ɑːɹ ɪmˈædʒɪn hˌaʊ aɪ ɡˈeɪp.|2
+ESD/0013/Happy/0013_000931.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|2
+ESD/0013/Neutral/0013_000349.wav|wˌʌt dˈuː juː θˈɪŋk ʌv ðɪs kwˈɛstʃən?|2
+ESD/0013/Sad/0013_001152.wav|ðɪs ɪz dʒˈæk, ðə ɹˈɛlətˌɪvz ʌv tˈɑːm.|2
+ESD/0013/Surprise/0013_001651.wav|ðə lˈeɪdɪbˌʌɡ tˈoʊld ðˌɛm pɹˈaʊdli.|2
+ESD/0013/Angry/0013_000511.wav|ðæts ɐ fˈʊl ɡɹˈoʊn kˈoʊlt.|2
+ESD/0013/Happy/0013_000922.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|2
+ESD/0013/Neutral/0013_000281.wav|hiː kʊd nˌɑːt hˈɛlp dˌuːɪŋ sˈoʊ.|2
+ESD/0013/Sad/0013_001400.wav|dˈuː juː hæv ˈɛnɪθˌɪŋ ɪn mˈaɪnd?|2
+ESD/0013/Surprise/0013_001551.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|2
+ESD/0013/Angry/0013_000458.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt.|2
+ESD/0013/Happy/0013_000744.wav|tˈeɪk kˈɜːɹɪdʒ ˈɔːl ˌɪzənt lˈɔst jˈɛt.|2
+ESD/0013/Neutral/0013_000015.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|2
+ESD/0013/Sad/0013_001143.wav|tə bˈaɪ tˈuː pˈoːɹk tʃˈɑːps.|2
+ESD/0013/Surprise/0013_001470.wav|tˈɑːm nˈaʊ lˈɛt ˌaʊɚɹ ˈæɹoʊz flˈaɪ!|2
+ESD/0013/Angry/0013_000621.wav|aɪ sˈeɪ aɪ wɪl biː ˈɛmpɚɹɚ.|2
+ESD/0013/Happy/0013_000739.wav|ˌaʊɚ θˈæŋks tə ɡˈɑːdz ˈoʊθ.|2
+ESD/0013/Neutral/0013_000279.wav|ðiːz wˈɜːdz bᵻhˌaɪnd ðɪ ˈɪɹz ɪz nˈɑːnsəns.|2
+ESD/0013/Sad/0013_001260.wav|ɪt wˈeɪz sˈɛvən pˈɔɪnt fˈaɪv kˈɪləɡɹˌæm.|2
+ESD/0013/Surprise/0013_001468.wav|aɪ duːnˌɑːt ˈiːt bɹˈɛd.|2
+ESD/0013/Angry/0013_000429.wav|ˈɔːl maɪ ɡˈʌm tˈɪps ɡɔn æz wˈɛl.|2
+ESD/0013/Happy/0013_000871.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|2
+ESD/0013/Neutral/0013_000162.wav|aɪ lˈɛnt dʒˈɔːɹdʒ θɹˈiː pˈaʊndz.|2
+ESD/0013/Surprise/0013_001519.wav|ðɪ ˈaʊl flˈuː ˌɪntʊ ɐ bˈʊʃ.|2
+ESD/0013/Sad/0013_001281.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|2
+ESD/0013/Angry/0013_000375.wav|ʃiː ɪz nˈaʊ tʃˈuːzɪŋ skˈɜːt tə wˈɛɹ.|2
+ESD/0013/Happy/0013_000969.wav|bˌʌt ʃˈoʊ mˌiː nˈaʊ jʊɹ mˈæp!|2
+ESD/0013/Neutral/0013_000199.wav|kˈæptɪn tˈɑːm ɹᵻsˈiːvz ɐn ˈæŋɡɹi lˈɛɾɚ.|2
+ESD/0013/Sad/0013_001204.wav|hiː dɹˈɛmpt ðˌɛm ˈɔːl nˈaɪt.|2
+ESD/0013/Surprise/0013_001536.wav|ʃiː hɐz ˈiːʔn̩ ðə tˌæpɪˈoʊkə ˈɔːlʌv ɪt.|2
+ESD/0013/Angry/0013_000650.wav|sˈɪks wʌz hˈæf wˈeɪ dˌaʊn ðə ɹˈuːm.|2
+ESD/0013/Happy/0013_000975.wav|juː ʃˌʊdənthəv pɹˈɪkt hˌɪm wɪð jʊɹ hˈɔːɹn.|2
+ESD/0013/Neutral/0013_000185.wav|ðə nˈuː bˈɔːɹn bˈeɪbi ɪz stˈoʊlən æz wiː ɡˈoʊ.|2
+ESD/0013/Sad/0013_001072.wav|ænd wʌt ɑːɹ dˈoʊvz. ænd wʌt ɑːɹ dˈoʊvz.|2
+ESD/0013/Surprise/0013_001710.wav|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn.|2
+ESD/0013/Angry/0013_000401.wav|sˈɛd ðɪ ɐmˈɛɹɪkən tə tʃaɪnˈiːz.|2
+ESD/0013/Happy/0013_000845.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|2
+ESD/0013/Neutral/0013_000330.wav|ʃiː kˈiːps sˈeɪɪŋ aɪm hˈɜːz.|2
+ESD/0013/Sad/0013_001146.wav|aɪ dˈoʊnt pˈeɪntᵻd tˈaɪɡɚ.|2
+ESD/0013/Surprise/0013_001704.wav|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd!|2
+ESD/0013/Angry/0013_000542.wav|aɪ hæv hædtə ɡɹˈoʊ ˈoʊld.|2
+ESD/0013/Happy/0013_001018.wav|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks.|2
+ESD/0013/Neutral/0013_000245.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|2
+ESD/0013/Sad/0013_001267.wav|juː kɹˈuːəlti ʃˌæl kˈɔst jʊɹ lˈaɪf !|2
+ESD/0013/Surprise/0013_001433.wav|ðɪs jˈuːzd təbi dʒˈɛɹiz ˌɑːkjʊpˈeɪʃən.|2
+ESD/0013/Happy/0013_001023.wav|wˌaɪ dˈɪd aɪ wˈeɪk ˈʌp!|2
+ESD/0013/Sad/0013_001071.wav|æz ɹˈɪtʃæz pˈiːɾɚz sˈʌn ɪn lˈɔː!|2
+ESD/0013/Surprise/0013_001466.wav|ʃˌæl wiː lˈɛt bˈɑːɹbɚɹə ˈɪn?|2
+ESD/0013/Angry/0013_000501.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|2
+ESD/0013/Neutral/0013_000222.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|2
+ESD/0013/Happy/0013_000732.wav|hˌuː ɪz bˌɪn ɹᵻpˈiːɾɪŋ ˈɔːl ðæt hˈɑːɹd stˈʌf tə juː?|2
+ESD/0013/Neutral/0013_000252.wav|aɪɐm ɹˈʌn ˈɔf maɪ fˈiːt.|2
+ESD/0013/Surprise/0013_001478.wav|ðɪ ˈɑːɹt kwˈaɪt sˈeɪf wɪð mˌiː.|2
+ESD/0013/Angry/0013_000521.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|2
+ESD/0013/Sad/0013_001065.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|2
+ESD/0013/Angry/0013_000475.wav|tə kˈætʃ ðæt bˈʊlɹʌʃ ɹˈuːt wɪð maɪ pˈɔː!|2
+ESD/0013/Happy/0013_000897.wav|fˈɜː flˈuː θɹuː ðɪ ˈɛɹ, tˈiːθ nˈæʃt.|2
+ESD/0013/Neutral/0013_000123.wav|aɪɐm fɹʌm tˈaʊəl lˈænd.|2
+ESD/0013/Sad/0013_001345.wav|aɪ nˈoʊ hˌaʊ tʊ oʊbˈeɪ ˈɔːɹdɚz.|2
+ESD/0013/Surprise/0013_001540.wav|wˌʌt ɐn ɪmpˈɛtʃuːəs bˈɔɪ hiː ɪz!|2
+ESD/0013/Angry/0013_000524.wav|aɪ pˈeɪ hˈæf ɐ kɹˈaʊn ɐ wˈiːk ˈɛkstɹə.|2
+ESD/0013/Happy/0013_000759.wav|zˈiəɹoʊ fˈoːɹ θɹˈiː ɐ sˈɪlvɚ ʃˈɪlɪŋ ɪz dʒˈɜːni.|2
+ESD/0013/Neutral/0013_000115.wav|hiː mˌaɪt kˈɔːl ɪt, fɔːɹ ɛɡzˈæmpəl.|2
+ESD/0013/Sad/0013_001188.wav|bˌʌt wˈʌn ɹᵻkwˈaɪɚz ðɪ ɛksplˈoːɹɚ tə fˈɜːnɪʃ pɹˈuːfs.|2
+ESD/0013/Surprise/0013_001441.wav|aɪ tʃˈoʊz ðə ɹˈaɪt wˈeɪ.|2
+ESD/0013/Angry/0013_000666.wav|ɐ θˈiːf ɪnðə nˈaɪt.|2
+ESD/0013/Neutral/0013_000319.wav|hˌaʊ kʊd aɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz?|2
+ESD/0013/Sad/0013_001103.wav|hiː wʌz stˈɪl ɪnðə fˈɔːɹɪst!|2
+ESD/0013/Surprise/0013_001579.wav|dˈeɪzi kɹˈiːmz wɪð pˈɪŋk ˈɛdʒᵻz.|2
+ESD/0013/Happy/0013_000964.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|2
+ESD/0013/Angry/0013_000388.wav|hˈoʊld ˌʌp maɪ tʃˈɪn, slˈoʊ ænd sˈɑːlɪd.|2
+ESD/0013/Happy/0013_000982.wav|ˈælɪs aɪ woʊnt fɚɡˈɛt ɪɾ ɐɡˈɛn.|2
+ESD/0013/Neutral/0013_000077.wav|bˌʌt aɪ sˈɔː juː wˈɔːkɪŋ.|2
+ESD/0013/Surprise/0013_001722.wav|ɐ spˈɛʃəl pˈɑːt tˈuː.|2
+ESD/0013/Sad/0013_001295.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|2
+ESD/0013/Angry/0013_000603.wav|aɪ hæv ɐ sˈuːθseɪɚ.|2
+ESD/0013/Happy/0013_000962.wav|aɪ bᵻlˈiːv juː ɑːɹ wˈʌn ʌv ðˌɛm!|2
+ESD/0013/Neutral/0013_000313.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs.|2
+ESD/0013/Sad/0013_001282.wav|wɪl kˈɔːl hɜː lˈɪli, fɔːɹ ʃˈɔːɹt.|2
+ESD/0013/Surprise/0013_001618.wav|aɪl sˈɛnd fɔːɹ tˈɑːm tə maɪ bˈuːdwɑːɹ.|2
+ESD/0013/Angry/0013_000395.wav|ðə nˈæstiɪst θˈɪŋz ðeɪ sˈɔː wɜː ðə kˈɑːbwɛbz.|2
+ESD/0013/Happy/0013_000714.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː!|2
+ESD/0013/Neutral/0013_000195.wav|ɐ bˈoʊt pˌʊt ˈaʊtɔnðə bˈeɪ.|2
+ESD/0013/Surprise/0013_001647.wav|ʃiː ænd ˈaɪ ɑːɹ ɹˈʌnɪŋ ɐ nˈɛk ænd nˈɛk ɹˈeɪs.|2
+ESD/0013/Sad/0013_001195.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|2
+ESD/0013/Angry/0013_000640.wav|ðɛɹ ɡoʊz ðə ʃˈɔːl ɐɡˈɛn!|2
+ESD/0013/Happy/0013_000762.wav|tˈɑːm, wɛnt ˌɔn ˈiːjoːɹ ɡlˈuːmili.|2
+ESD/0013/Neutral/0013_000342.wav|wˌaɪ ʃˌʊd aɪ pˈɜːtʃɪs maɪ ˈoʊn?|2
+ESD/0013/Sad/0013_001151.wav|ɪts mˌiː pˈɪɡlɪt, hˈɛlp hˈɛlp!|2
+ESD/0013/Surprise/0013_001628.wav|ɪt sˈɛz nˈoʊ wˈeɪ! ʃˈaʊɾᵻd dˈeɪzi.|2
+ESD/0013/Angry/0013_000605.wav|ðɪs wʌzðə twˈɛnti fˈɪfθ ʌv noʊvˈɛmbɚ, sˈɛvəntˌiːn ˈeɪɾi θɹˈiː.|2
+ESD/0013/Happy/0013_000720.wav|æt ðə ɹˈuːtsəvə bˈʊʃ əvə ɡɹˈæs.|2
+ESD/0013/Neutral/0013_000150.wav|aɪ hˈoʊp juː ɛndʒˈɔɪd joːɹsˈɛlf?|2
+ESD/0013/Sad/0013_001060.wav|ɐ nˈɔːsɪəs dɹˈæft.|2
+ESD/0013/Surprise/0013_001517.wav|ðeɪ wɜː tʃˈɪldɹən ʌv mˈaɪn.|2
+ESD/0013/Angry/0013_000623.wav|aɪd dʒˈʌst æz sˈuːn swˈɪm jʊɹ wˈeɪ æz ˈʌðɚz dˈuː.|2
+ESD/0013/Happy/0013_000712.wav|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.|2
+ESD/0014/Angry/0014_000402.wav|fɹʌm ˈɔːɡəst ˈeɪtiːnθ, ʌv ðɛɹ dᵻvˈoːɹs.|3
+ESD/0014/Happy/0014_000991.wav|ðɪ ˈɛnd ʌv fˈɛbɹuːˌɛɹi fˈoːɹtiːnθ.|3
+ESD/0014/Neutral/0014_000003.wav|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.|3
+ESD/0014/Sad/0014_001385.wav|bˌʌt θˈɪŋz hˈævənt tʃˈeɪndʒ jˈɛt.|3
+ESD/0014/Surprise/0014_001664.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|3
+ESD/0014/Angry/0014_000599.wav|juː mˈeɪ ɪmˈædʒɪn hˌaʊ aɪ ɡˈeɪp.|3
+ESD/0014/Happy/0014_000931.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|3
+ESD/0014/Neutral/0014_000349.wav|wˌʌt dˈuː juː θˈɪŋk ʌv ðɪs kwˈɛstʃən?|3
+ESD/0014/Sad/0014_001152.wav|ðɪs ɪz dʒˈæk, ðə ɹˈɛlətˌɪvz ʌv tˈɑːm.|3
+ESD/0014/Surprise/0014_001651.wav|ðə lˈeɪdɪbˌʌɡ tˈoʊld ðˌɛm pɹˈaʊdli.|3
+ESD/0014/Angry/0014_000511.wav|ðæts ɐ fˈʊl ɡɹˈoʊn kˈoʊlt.|3
+ESD/0014/Happy/0014_000922.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|3
+ESD/0014/Neutral/0014_000281.wav|hiː kʊd nˌɑːt hˈɛlp dˌuːɪŋ sˈoʊ.|3
+ESD/0014/Sad/0014_001400.wav|dˈuː juː hæv ˈɛnɪθˌɪŋ ɪn mˈaɪnd?|3
+ESD/0014/Surprise/0014_001551.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|3
+ESD/0014/Angry/0014_000458.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt.|3
+ESD/0014/Happy/0014_000744.wav|tˈeɪk kˈɜːɹɪdʒ ˈɔːl ˌɪzənt lˈɔst jˈɛt.|3
+ESD/0014/Neutral/0014_000015.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|3
+ESD/0014/Sad/0014_001143.wav|tə bˈaɪ tˈuː pˈoːɹk tʃˈɑːps.|3
+ESD/0014/Surprise/0014_001470.wav|tˈɑːm nˈaʊ lˈɛt ˌaʊɚɹ ˈæɹoʊz flˈaɪ!|3
+ESD/0014/Angry/0014_000621.wav|aɪ sˈeɪ aɪ wɪl biː ˈɛmpɚɹɚ.|3
+ESD/0014/Happy/0014_000739.wav|ˌaʊɚ θˈæŋks tə ɡˈɑːdz ˈoʊθ.|3
+ESD/0014/Neutral/0014_000279.wav|ðiːz wˈɜːdz bᵻhˌaɪnd ðɪ ˈɪɹz ɪz nˈɑːnsəns.|3
+ESD/0014/Sad/0014_001260.wav|ɪt wˈeɪz sˈɛvən pˈɔɪnt fˈaɪv kˈɪləɡɹˌæm.|3
+ESD/0014/Surprise/0014_001468.wav|aɪ duːnˌɑːt ˈiːt bɹˈɛd.|3
+ESD/0014/Angry/0014_000429.wav|ˈɔːl maɪ ɡˈʌm tˈɪps ɡɔn æz wˈɛl.|3
+ESD/0014/Happy/0014_000871.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|3
+ESD/0014/Neutral/0014_000162.wav|aɪ lˈɛnt dʒˈɔːɹdʒ θɹˈiː pˈaʊndz.|3
+ESD/0014/Surprise/0014_001519.wav|ðɪ ˈaʊl flˈuː ˌɪntʊ ɐ bˈʊʃ.|3
+ESD/0014/Sad/0014_001281.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|3
+ESD/0014/Angry/0014_000375.wav|ʃiː ɪz nˈaʊ tʃˈuːzɪŋ skˈɜːt tə wˈɛɹ.|3
+ESD/0014/Happy/0014_000969.wav|bˌʌt ʃˈoʊ mˌiː nˈaʊ jʊɹ mˈæp!|3
+ESD/0014/Neutral/0014_000199.wav|kˈæptɪn tˈɑːm ɹᵻsˈiːvz ɐn ˈæŋɡɹi lˈɛɾɚ.|3
+ESD/0014/Sad/0014_001204.wav|hiː dɹˈɛmpt ðˌɛm ˈɔːl nˈaɪt.|3
+ESD/0014/Surprise/0014_001536.wav|ʃiː hɐz ˈiːʔn̩ ðə tˌæpɪˈoʊkə ˈɔːlʌv ɪt.|3
+ESD/0014/Angry/0014_000650.wav|sˈɪks wʌz hˈæf wˈeɪ dˌaʊn ðə ɹˈuːm.|3
+ESD/0014/Happy/0014_000975.wav|juː ʃˌʊdənthəv pɹˈɪkt hˌɪm wɪð jʊɹ hˈɔːɹn.|3
+ESD/0014/Neutral/0014_000185.wav|ðə nˈuː bˈɔːɹn bˈeɪbi ɪz stˈoʊlən æz wiː ɡˈoʊ.|3
+ESD/0014/Sad/0014_001072.wav|ænd wʌt ɑːɹ dˈoʊvz. ænd wʌt ɑːɹ dˈoʊvz.|3
+ESD/0014/Surprise/0014_001710.wav|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn.|3
+ESD/0014/Angry/0014_000401.wav|sˈɛd ðɪ ɐmˈɛɹɪkən tə tʃaɪnˈiːz.|3
+ESD/0014/Happy/0014_000845.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|3
+ESD/0014/Neutral/0014_000330.wav|ʃiː kˈiːps sˈeɪɪŋ aɪm hˈɜːz.|3
+ESD/0014/Sad/0014_001146.wav|aɪ dˈoʊnt pˈeɪntᵻd tˈaɪɡɚ.|3
+ESD/0014/Surprise/0014_001704.wav|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd!|3
+ESD/0014/Angry/0014_000542.wav|aɪ hæv hædtə ɡɹˈoʊ ˈoʊld.|3
+ESD/0014/Happy/0014_001018.wav|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks.|3
+ESD/0014/Neutral/0014_000245.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|3
+ESD/0014/Sad/0014_001267.wav|juː kɹˈuːəlti ʃˌæl kˈɔst jʊɹ lˈaɪf !|3
+ESD/0014/Surprise/0014_001433.wav|ðɪs jˈuːzd təbi dʒˈɛɹiz ˌɑːkjʊpˈeɪʃən.|3
+ESD/0014/Happy/0014_001023.wav|wˌaɪ dˈɪd aɪ wˈeɪk ˈʌp!|3
+ESD/0014/Sad/0014_001071.wav|æz ɹˈɪtʃæz pˈiːɾɚz sˈʌn ɪn lˈɔː!|3
+ESD/0014/Surprise/0014_001466.wav|ʃˌæl wiː lˈɛt bˈɑːɹbɚɹə ˈɪn?|3
+ESD/0014/Angry/0014_000501.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|3
+ESD/0014/Neutral/0014_000222.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|3
+ESD/0014/Happy/0014_000732.wav|hˌuː ɪz bˌɪn ɹᵻpˈiːɾɪŋ ˈɔːl ðæt hˈɑːɹd stˈʌf tə juː?|3
+ESD/0014/Neutral/0014_000252.wav|aɪɐm ɹˈʌn ˈɔf maɪ fˈiːt.|3
+ESD/0014/Surprise/0014_001478.wav|ðɪ ˈɑːɹt kwˈaɪt sˈeɪf wɪð mˌiː.|3
+ESD/0014/Angry/0014_000521.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|3
+ESD/0014/Sad/0014_001065.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|3
+ESD/0014/Angry/0014_000475.wav|tə kˈætʃ ðæt bˈʊlɹʌʃ ɹˈuːt wɪð maɪ pˈɔː!|3
+ESD/0014/Happy/0014_000897.wav|fˈɜː flˈuː θɹuː ðɪ ˈɛɹ, tˈiːθ nˈæʃt.|3
+ESD/0014/Neutral/0014_000123.wav|aɪɐm fɹʌm tˈaʊəl lˈænd.|3
+ESD/0014/Sad/0014_001345.wav|aɪ nˈoʊ hˌaʊ tʊ oʊbˈeɪ ˈɔːɹdɚz.|3
+ESD/0014/Surprise/0014_001540.wav|wˌʌt ɐn ɪmpˈɛtʃuːəs bˈɔɪ hiː ɪz!|3
+ESD/0014/Angry/0014_000524.wav|aɪ pˈeɪ hˈæf ɐ kɹˈaʊn ɐ wˈiːk ˈɛkstɹə.|3
+ESD/0014/Happy/0014_000759.wav|zˈiəɹoʊ fˈoːɹ θɹˈiː ɐ sˈɪlvɚ ʃˈɪlɪŋ ɪz dʒˈɜːni.|3
+ESD/0014/Neutral/0014_000115.wav|hiː mˌaɪt kˈɔːl ɪt, fɔːɹ ɛɡzˈæmpəl.|3
+ESD/0014/Sad/0014_001188.wav|bˌʌt wˈʌn ɹᵻkwˈaɪɚz ðɪ ɛksplˈoːɹɚ tə fˈɜːnɪʃ pɹˈuːfs.|3
+ESD/0014/Surprise/0014_001441.wav|aɪ tʃˈoʊz ðə ɹˈaɪt wˈeɪ.|3
+ESD/0014/Angry/0014_000666.wav|ɐ θˈiːf ɪnðə nˈaɪt.|3
+ESD/0014/Neutral/0014_000319.wav|hˌaʊ kʊd aɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz?|3
+ESD/0014/Sad/0014_001103.wav|hiː wʌz stˈɪl ɪnðə fˈɔːɹɪst!|3
+ESD/0014/Surprise/0014_001579.wav|dˈeɪzi kɹˈiːmz wɪð pˈɪŋk ˈɛdʒᵻz.|3
+ESD/0014/Happy/0014_000964.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|3
+ESD/0014/Angry/0014_000388.wav|hˈoʊld ˌʌp maɪ tʃˈɪn, slˈoʊ ænd sˈɑːlɪd.|3
+ESD/0014/Happy/0014_000982.wav|ˈælɪs aɪ woʊnt fɚɡˈɛt ɪɾ ɐɡˈɛn.|3
+ESD/0014/Neutral/0014_000077.wav|bˌʌt aɪ sˈɔː juː wˈɔːkɪŋ.|3
+ESD/0014/Surprise/0014_001722.wav|ɐ spˈɛʃəl pˈɑːt tˈuː.|3
+ESD/0014/Sad/0014_001295.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|3
+ESD/0014/Angry/0014_000603.wav|aɪ hæv ɐ sˈuːθseɪɚ.|3
+ESD/0014/Happy/0014_000962.wav|aɪ bᵻlˈiːv juː ɑːɹ wˈʌn ʌv ðˌɛm!|3
+ESD/0014/Neutral/0014_000313.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs.|3
+ESD/0014/Sad/0014_001282.wav|wɪl kˈɔːl hɜː lˈɪli, fɔːɹ ʃˈɔːɹt.|3
+ESD/0014/Surprise/0014_001618.wav|aɪl sˈɛnd fɔːɹ tˈɑːm tə maɪ bˈuːdwɑːɹ.|3
+ESD/0014/Angry/0014_000395.wav|ðə nˈæstiɪst θˈɪŋz ðeɪ sˈɔː wɜː ðə kˈɑːbwɛbz.|3
+ESD/0014/Happy/0014_000714.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː!|3
+ESD/0014/Neutral/0014_000195.wav|ɐ bˈoʊt pˌʊt ˈaʊtɔnðə bˈeɪ.|3
+ESD/0014/Surprise/0014_001647.wav|ʃiː ænd ˈaɪ ɑːɹ ɹˈʌnɪŋ ɐ nˈɛk ænd nˈɛk ɹˈeɪs.|3
+ESD/0014/Sad/0014_001195.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|3
+ESD/0014/Angry/0014_000640.wav|ðɛɹ ɡoʊz ðə ʃˈɔːl ɐɡˈɛn!|3
+ESD/0014/Happy/0014_000762.wav|tˈɑːm, wɛnt ˌɔn ˈiːjoːɹ ɡlˈuːmili.|3
+ESD/0014/Neutral/0014_000342.wav|wˌaɪ ʃˌʊd aɪ pˈɜːtʃɪs maɪ ˈoʊn?|3
+ESD/0014/Sad/0014_001151.wav|ɪts mˌiː pˈɪɡlɪt, hˈɛlp hˈɛlp!|3
+ESD/0014/Surprise/0014_001628.wav|ɪt sˈɛz nˈoʊ wˈeɪ! ʃˈaʊɾᵻd dˈeɪzi.|3
+ESD/0014/Angry/0014_000605.wav|ðɪs wʌzðə twˈɛnti fˈɪfθ ʌv noʊvˈɛmbɚ, sˈɛvəntˌiːn ˈeɪɾi θɹˈiː.|3
+ESD/0014/Happy/0014_000720.wav|æt ðə ɹˈuːtsəvə bˈʊʃ əvə ɡɹˈæs.|3
+ESD/0014/Neutral/0014_000150.wav|aɪ hˈoʊp juː ɛndʒˈɔɪd joːɹsˈɛlf?|3
+ESD/0014/Sad/0014_001060.wav|ɐ nˈɔːsɪəs dɹˈæft.|3
+ESD/0014/Surprise/0014_001517.wav|ðeɪ wɜː tʃˈɪldɹən ʌv mˈaɪn.|3
+ESD/0014/Angry/0014_000623.wav|aɪd dʒˈʌst æz sˈuːn swˈɪm jʊɹ wˈeɪ æz ˈʌðɚz dˈuː.|3
+ESD/0014/Happy/0014_000712.wav|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.|3
+ESD/0014/Neutral/0014_000176.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl.|3
+ESD/0015/Angry/0015_000402.wav|fɹʌm ˈɔːɡəst ˈeɪtiːnθ, ʌv ðɛɹ dᵻvˈoːɹs.|4
+ESD/0015/Happy/0015_000991.wav|ðɪ ˈɛnd ʌv fˈɛbɹuːˌɛɹi fˈoːɹtiːnθ.|4
+ESD/0015/Neutral/0015_000003.wav|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.|4
+ESD/0015/Sad/0015_001385.wav|bˌʌt θˈɪŋz hˈævənt tʃˈeɪndʒ jˈɛt.|4
+ESD/0015/Surprise/0015_001664.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|4
+ESD/0015/Angry/0015_000599.wav|juː mˈeɪ ɪmˈædʒɪn hˌaʊ aɪ ɡˈeɪp.|4
+ESD/0015/Happy/0015_000931.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|4
+ESD/0015/Neutral/0015_000349.wav|wˌʌt dˈuː juː θˈɪŋk ʌv ðɪs kwˈɛstʃən?|4
+ESD/0015/Sad/0015_001152.wav|ðɪs ɪz dʒˈæk, ðə ɹˈɛlətˌɪvz ʌv tˈɑːm.|4
+ESD/0015/Surprise/0015_001651.wav|ðə lˈeɪdɪbˌʌɡ tˈoʊld ðˌɛm pɹˈaʊdli.|4
+ESD/0015/Angry/0015_000511.wav|ðæts ɐ fˈʊl ɡɹˈoʊn kˈoʊlt.|4
+ESD/0015/Happy/0015_000922.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|4
+ESD/0015/Neutral/0015_000281.wav|hiː kæn nˌɑːt hˈɛlp dˌuːɪŋ sˈoʊ.|4
+ESD/0015/Sad/0015_001400.wav|dˈuː juː hæv ˈɛnɪθˌɪŋ ɪn mˈaɪnd?|4
+ESD/0015/Surprise/0015_001551.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|4
+ESD/0015/Angry/0015_000458.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt.|4
+ESD/0015/Happy/0015_000744.wav|tˈeɪk kˈɜːɹɪdʒ ˈɔːl ˌɪzənt lˈɔst jˈɛt.|4
+ESD/0015/Neutral/0015_000015.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|4
+ESD/0015/Sad/0015_001143.wav|tə bˈaɪ tˈuː pˈoːɹk tʃˈɑːps.|4
+ESD/0015/Surprise/0015_001470.wav|tˈɑːm nˈaʊ lˈɛt ˌaʊɚɹ ˈæɹoʊz flˈaɪ!|4
+ESD/0015/Angry/0015_000621.wav|aɪ sˈeɪ aɪ wɪl biː ˈɛmpɚɹɚ.|4
+ESD/0015/Happy/0015_000739.wav|ˌaʊɚ θˈæŋks tə ɡˈɑːdz ˈoʊθ.|4
+ESD/0015/Neutral/0015_000279.wav|ðiːz wˈɜːdz bᵻhˌaɪnd ðɪ ˈɪɹz ɪz nˈɑːnsəns.|4
+ESD/0015/Sad/0015_001260.wav|ɪt wˈeɪz sˈɛvən pˈɔɪnt fˈaɪv kˈɪləɡɹˌæm.|4
+ESD/0015/Surprise/0015_001468.wav|aɪ duːnˌɑːt ˈiːt bɹˈɛd.|4
+ESD/0015/Angry/0015_000429.wav|ˈɔːl maɪ ɡˈʌm tˈɪps ɡɔn æz wˈɛl.|4
+ESD/0015/Happy/0015_000871.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|4
+ESD/0015/Neutral/0015_000162.wav|aɪ lˈɛnt dʒˈɔːɹdʒ θɹˈiː pˈaʊndz.|4
+ESD/0015/Surprise/0015_001519.wav|ðɪ ˈaʊl flˈuː ˌɪntʊ ɐ bˈʊʃ.|4
+ESD/0015/Sad/0015_001281.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|4
+ESD/0015/Angry/0015_000375.wav|ʃiː ɪz nˈaʊ tʃˈuːzɪŋ skˈɜːt tə wˈɛɹ.|4
+ESD/0015/Happy/0015_000969.wav|bˌʌt ʃˈoʊ mˌiː nˈaʊ jʊɹ mˈæp!|4
+ESD/0015/Neutral/0015_000199.wav|kˈæptɪn tˈɑːm ɹᵻsˈiːvz ɐn ˈæŋɡɹi lˈɛɾɚ.|4
+ESD/0015/Sad/0015_001204.wav|hiː dɹˈɛmpt ðˌɛm ˈɔːl nˈaɪt.|4
+ESD/0015/Surprise/0015_001536.wav|ʃiː hɐz ˈiːʔn̩ ðə tˌæpɪˈoʊkə ˈɔːlʌv ɪt.|4
+ESD/0015/Angry/0015_000650.wav|sˈɪks wʌz hˈæf wˈeɪ dˌaʊn ðə ɹˈuːm.|4
+ESD/0015/Happy/0015_000975.wav|juː ʃˌʊdənt pɹˈɪkt hˌɪm wɪð jʊɹ hˈɔːɹn.|4
+ESD/0015/Neutral/0015_000185.wav|ðə nˈuː bˈɔːɹn bˈeɪbi ɪz stˈoʊlən æz wiː ɡˈoʊ.|4
+ESD/0015/Sad/0015_001072.wav|ænd wʌt ɑːɹ dˈoʊvz. ænd wʌt ɑːɹ dˈoʊvz.|4
+ESD/0015/Surprise/0015_001710.wav|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn.|4
+ESD/0015/Angry/0015_000401.wav|sˈɛd ðɪ ɐmˈɛɹɪkən tə tʃaɪnˈiːz.|4
+ESD/0015/Happy/0015_000845.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|4
+ESD/0015/Neutral/0015_000330.wav|ʃiː kˈiːps sˈeɪɪŋ aɪm hˈɜːz.|4
+ESD/0015/Sad/0015_001146.wav|aɪ dˈoʊnt pˈeɪntᵻd tˈaɪɡɚ.|4
+ESD/0015/Surprise/0015_001704.wav|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd!|4
+ESD/0015/Angry/0015_000542.wav|aɪ hæv hædtə ɡɹˈoʊ ˈoʊld.|4
+ESD/0015/Happy/0015_001018.wav|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks.|4
+ESD/0015/Neutral/0015_000245.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|4
+ESD/0015/Sad/0015_001267.wav|juː kɹˈuːəlti ʃˌæl kˈɔst jʊɹ lˈaɪf !|4
+ESD/0015/Surprise/0015_001433.wav|ðɪs jˈuːzd təbi dʒˈɛɹiz ˌɑːkjʊpˈeɪʃən.|4
+ESD/0015/Happy/0015_001023.wav|wˌaɪ dˈɪd aɪ wˈeɪk ˈʌp!|4
+ESD/0015/Sad/0015_001071.wav|æz ɹˈɪtʃæz pˈiːɾɚz sˈʌn ɪn lˈɔː!|4
+ESD/0015/Surprise/0015_001466.wav|ʃˌæl wiː lˈɛt bˈɑːɹbɚɹə ˈɪn?|4
+ESD/0015/Angry/0015_000501.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|4
+ESD/0015/Neutral/0015_000222.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|4
+ESD/0015/Happy/0015_000732.wav|hˌuː ɪz bˌɪn ɹᵻpˈiːɾɪŋ ˈɔːl ðæt hˈɑːɹd stˈʌf tə juː?|4
+ESD/0015/Neutral/0015_000252.wav|aɪɐm ɹˈʌn ˈɔf maɪ fˈiːt.|4
+ESD/0015/Surprise/0015_001478.wav|ðɪ ˈɑːɹt kwˈaɪt sˈeɪf wɪð mˌiː.|4
+ESD/0015/Angry/0015_000521.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|4
+ESD/0015/Sad/0015_001065.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|4
+ESD/0015/Angry/0015_000475.wav|tə kˈætʃ ðæt bˈʊlɹʌʃ ɹˈuːt wɪð maɪ pˈɔː!|4
+ESD/0015/Happy/0015_000897.wav|fˈɜː flˈuː θɹuː ðɪ ˈɛɹ, tˈiːθ nˈæʃt.|4
+ESD/0015/Neutral/0015_000123.wav|aɪɐm fɹʌm tˈaʊəl lˈænd.|4
+ESD/0015/Sad/0015_001345.wav|aɪ nˈoʊ hˌaʊ tʊ oʊbˈeɪ ˈɔːɹdɚz.|4
+ESD/0015/Surprise/0015_001540.wav|wˌʌt ɐn ɪmpˈɛtʃuːəs bˈɔɪ hiː ɪz!|4
+ESD/0015/Angry/0015_000524.wav|aɪ pˈeɪ hˈæf ɐ kɹˈaʊn ɐ wˈiːk ˈɛkstɹə.|4
+ESD/0015/Happy/0015_000759.wav|zˈiəɹoʊ fˈoːɹ θɹˈiː ɐ sˈɪlvɚ ʃˈɪlɪŋ ɪz dʒˈɜːni.|4
+ESD/0015/Neutral/0015_000115.wav|hiː mˌaɪt kˈɔːl ɪt, fɔːɹ ɛɡzˈæmpəl.|4
+ESD/0015/Sad/0015_001188.wav|bˌʌt wˈʌn ɹᵻkwˈaɪɚz ðɪ ɛksplˈoːɹɚ tə fˈɜːnɪʃ pɹˈuːfs.|4
+ESD/0015/Surprise/0015_001441.wav|aɪ tʃˈoʊz ðə ɹˈaɪt wˈeɪ.|4
+ESD/0015/Angry/0015_000666.wav|ɐ θˈiːf ɪnðə nˈaɪt.|4
+ESD/0015/Neutral/0015_000319.wav|hˌaʊ kʊd aɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz?|4
+ESD/0015/Sad/0015_001103.wav|hiː wʌz stˈɪl ɪnðə fˈɔːɹɪst!|4
+ESD/0015/Surprise/0015_001579.wav|dˈeɪzi kɹˈiːmz wɪð pˈɪŋk ˈɛdʒᵻz.|4
+ESD/0015/Happy/0015_000964.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|4
+ESD/0015/Angry/0015_000388.wav|hˈoʊld ˌʌp maɪ tʃˈɪn, slˈoʊ ænd sˈɑːlɪd.|4
+ESD/0015/Happy/0015_000982.wav|ˈælɪs aɪ woʊnt fɚɡˈɛt ɪɾ ɐɡˈɛn.|4
+ESD/0015/Neutral/0015_000077.wav|bˌʌt aɪ sˈɔː juː wˈɔːkɪŋ.|4
+ESD/0015/Surprise/0015_001722.wav|ɐ spˈɛʃəl pˈɑːt tˈuː.|4
+ESD/0015/Sad/0015_001295.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|4
+ESD/0015/Angry/0015_000603.wav|aɪ hæv ɐ sˈuːθseɪɚ.|4
+ESD/0015/Happy/0015_000962.wav|aɪ bᵻlˈiːv juː ɑːɹ wˈʌn ʌv ðˌɛm!|4
+ESD/0015/Neutral/0015_000313.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs.|4
+ESD/0015/Sad/0015_001282.wav|wɪl kˈɔːl hɜː lˈɪli, fɔːɹ ʃˈɔːɹt.|4
+ESD/0015/Surprise/0015_001618.wav|aɪl sˈɛnd fɔːɹ tˈɑːm tə maɪ bˈuːdwɑːɹ.|4
+ESD/0015/Angry/0015_000395.wav|ðə nˈæstiɪst θˈɪŋz ðeɪ sˈɔː wɜː ðə kˈɑːbwɛbz.|4
+ESD/0015/Happy/0015_000714.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː!|4
+ESD/0015/Neutral/0015_000195.wav|ɐ bˈoʊt pˌʊt ˈaʊtɔnðə bˈeɪ.|4
+ESD/0015/Surprise/0015_001647.wav|ʃiː ænd ˈaɪ ɑːɹ ɹˈʌnɪŋ ɐ nˈɛk ænd nˈɛk ɹˈeɪs.|4
+ESD/0015/Sad/0015_001195.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|4
+ESD/0015/Angry/0015_000640.wav|ðɛɹ ɡoʊz ðə ʃˈɔːl ɐɡˈɛn!|4
+ESD/0015/Happy/0015_000762.wav|tˈɑːm, wɛnt ˌɔn ˈiːjoːɹ ɡlˈuːmili.|4
+ESD/0015/Neutral/0015_000342.wav|wˌaɪ ʃˌʊd aɪ pˈɜːtʃɪs maɪ ˈoʊn?|4
+ESD/0015/Sad/0015_001151.wav|ɪts mˌiː pˈɪɡlɪt, hˈɛlp hˈɛlp!|4
+ESD/0015/Surprise/0015_001628.wav|ɪt sˈɛz nˈoʊ wˈeɪ! ʃˈaʊɾᵻd dˈeɪzi.|4
+ESD/0015/Angry/0015_000605.wav|ðɪs wʌzðə twˈɛnti fˈɪfθ ʌv noʊvˈɛmbɚ, sˈɛvəntˌiːn ˈeɪɾi θɹˈiː.|4
+ESD/0015/Happy/0015_000720.wav|æt ðə ɹˈuːtsəvə bˈʊʃ əvə ɡɹˈæs.|4
+ESD/0015/Neutral/0015_000150.wav|aɪ hˈoʊp juː ɛndʒˈɔɪd joːɹsˈɛlf?|4
+ESD/0015/Sad/0015_001060.wav|ɐ nˈɔːsɪəs dɹˈæft.|4
+ESD/0015/Surprise/0015_001517.wav|ðeɪ wɜː tʃˈɪldɹən ʌv mˈaɪn.|4
+ESD/0015/Angry/0015_000623.wav|aɪd dʒˈʌst æz sˈuːn swˈɪm jʊɹ wˈeɪ æz ˈʌðɚz dˈuː.|4
+ESD/0015/Happy/0015_000712.wav|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.|4
+ESD/0015/Neutral/0015_000176.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl.|4
+ESD/0015/Sad/0015_001264.wav|bˌʌt wʌt ɐbˌaʊt ðɪs θˈɪŋ, stˈɪki!|4
+ESD/0015/Surprise/0015_001732.wav|wˌɛɹ ɑːɹ juː ɡˈoʊɪŋ?|4
+ESD/0015/Angry/0015_000407.wav|hˈænɪbəl kˈʌm tə sˈiː juː.|4
+ESD/0015/Neutral/0015_000285.wav|ðə stɹˈɔː, tʃˈɑːɹkoʊl ænd ðə pˈiː.|4
+ESD/0015/Sad/0015_001254.wav|ðə sˈɔŋ ɪz ɹˈiəli lˈaʊdɪŋ ˌɔn ɐ ɡˈeɪt.|4
+ESD/0015/Happy/0015_001013.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs.|4
+ESD/0015/Surprise/0015_001576.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl.|4
+ESD/0015/Happy/0015_000758.wav|ðɪ ˈɑːktəpəs hɐz ˈeɪt lˈɛɡz.|4
+ESD/0015/Neutral/0015_000002.wav|aɪ dˈɪd ɡˈoʊ, ænd mˌeɪd mˈɛni pɹˈɪzənɚz.|4
+ESD/0015/Surprise/0015_001416.wav|mˈɪstɚ ʃˈɛɹ mˈæn, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.|4
+ESD/0016/Angry/0016_000402.wav|fɹʌm ˈɔːɡəst ˈeɪtiːnθ, ʌv ðɛɹ dᵻvˈoːɹs.|5
+ESD/0016/Happy/0016_000991.wav|ðɪ ˈɛnd ʌv fˈɛbɹuːˌɛɹi fˈoːɹtiːnθ.|5
+ESD/0016/Neutral/0016_000003.wav|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.|5
+ESD/0016/Sad/0016_001385.wav|bˌʌt θˈɪŋz hˈævənt tʃˈeɪndʒ jˈɛt.|5
+ESD/0016/Surprise/0016_001664.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|5
+ESD/0016/Angry/0016_000599.wav|juː mˈeɪ ɪmˈædʒɪn hˌaʊ aɪ ɡˈeɪp.|5
+ESD/0016/Happy/0016_000931.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|5
+ESD/0016/Neutral/0016_000349.wav|wˌʌt dˈuː juː θˈɪŋk ʌv ðɪs kwˈɛstʃən?|5
+ESD/0016/Sad/0016_001152.wav|ðɪs ɪz dʒˈæk, ðə ɹˈɛlətˌɪvz ʌv tˈɑːm.|5
+ESD/0016/Surprise/0016_001651.wav|ðə lˈeɪdɪbˌʌɡ tˈoʊld ðˌɛm pɹˈaʊdli.|5
+ESD/0016/Angry/0016_000511.wav|ðæts ɐ fˈʊl ɡɹˈoʊn kˈoʊlt.|5
+ESD/0016/Happy/0016_000922.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|5
+ESD/0016/Neutral/0016_000281.wav|hiː kʊd nˌɑːt hˈɛlp dˌuːɪŋ sˈoʊ.|5
+ESD/0016/Sad/0016_001400.wav|dˈuː juː hæv ˈɛnɪθˌɪŋ ɪn mˈaɪnd?|5
+ESD/0016/Surprise/0016_001551.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|5
+ESD/0016/Angry/0016_000458.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt.|5
+ESD/0016/Happy/0016_000744.wav|tˈeɪk kˈɜːɹɪdʒ ˈɔːl ˌɪzənt lˈɔst jˈɛt.|5
+ESD/0016/Neutral/0016_000015.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|5
+ESD/0016/Sad/0016_001143.wav|tə bˈaɪ tˈuː pˈoːɹk tʃˈɑːps.|5
+ESD/0016/Surprise/0016_001470.wav|tˈɑːm nˈaʊ lˈɛt ˌaʊɚɹ ˈæɹoʊz flˈaɪ!|5
+ESD/0016/Angry/0016_000621.wav|aɪ sˈeɪ aɪ wɪl biː ˈɛmpɚɹɚ.|5
+ESD/0016/Happy/0016_000739.wav|ˌaʊɚ θˈæŋks tə ɡˈɑːdz ˈoʊθ.|5
+ESD/0016/Neutral/0016_000279.wav|ðiːz wˈɜːdz bᵻhˌaɪnd ðɪ ˈɪɹz ɪz nˈɑːnsəns.|5
+ESD/0016/Sad/0016_001260.wav|ɪt wˈeɪz sˈɛvən pˈɔɪnt fˈaɪv kˈɪləɡɹˌæm.|5
+ESD/0016/Surprise/0016_001468.wav|aɪ duːnˌɑːt ˈiːt bɹˈɛd.|5
+ESD/0016/Angry/0016_000429.wav|ˈɔːl maɪ ɡˈʌm tˈɪps ɡɔn æz wˈɛl.|5
+ESD/0016/Happy/0016_000871.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|5
+ESD/0016/Neutral/0016_000162.wav|aɪ lˈɛnt dʒˈɔːɹdʒ θɹˈiː pˈaʊndz.|5
+ESD/0016/Surprise/0016_001519.wav|ðɪ ˈaʊl flˈuː ˌɪntʊ ɐ bˈʊʃ.|5
+ESD/0016/Sad/0016_001281.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|5
+ESD/0016/Angry/0016_000375.wav|ʃiː ɪz nˈaʊ tʃˈuːzɪŋ skˈɜːt tə wˈɛɹ.|5
+ESD/0016/Happy/0016_000969.wav|bˌʌt ʃˈoʊ mˌiː nˈaʊ jʊɹ mˈæp!|5
+ESD/0016/Neutral/0016_000199.wav|kˈæptɪn tˈɑːm ɹᵻsˈiːvz ɐn ˈæŋɡɹi lˈɛɾɚ.|5
+ESD/0016/Sad/0016_001204.wav|hiː dɹˈɛmpt ðˌɛm ˈɔːl nˈaɪt.|5
+ESD/0016/Surprise/0016_001536.wav|ʃiː hɐz ˈiːʔn̩ ðə tˌæpɪˈoʊkə ˈɔːl ʌv ɪt.|5
+ESD/0016/Angry/0016_000650.wav|sˈɪks wʌz hˈæf wˈeɪ dˌaʊn ðə ɹˈuːm.|5
+ESD/0016/Happy/0016_000975.wav|juː ʃˌʊdənthəv pɹˈɪkt hˌɪm wɪð jʊɹ hˈɔːɹn.|5
+ESD/0016/Neutral/0016_000185.wav|ðə nˈuː bˈɔːɹn bˈeɪbi ɪz stˈoʊlən æz wiː ɡˈoʊ.|5
+ESD/0016/Sad/0016_001072.wav|ænd wʌt ɑːɹ dˈoʊvz. ænd wʌt ɑːɹ dˈoʊvz.|5
+ESD/0016/Surprise/0016_001710.wav|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn.|5
+ESD/0016/Angry/0016_000401.wav|sˈɛd ðɪ ɐmˈɛɹɪkən tə tʃaɪnˈiːz.|5
+ESD/0016/Happy/0016_000845.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|5
+ESD/0016/Neutral/0016_000330.wav|ʃiː kˈiːps sˈeɪɪŋ aɪm hˈɜːz.|5
+ESD/0016/Sad/0016_001146.wav|aɪ dˈoʊnt pˈeɪntᵻd tˈaɪɡɚ.|5
+ESD/0016/Surprise/0016_001704.wav|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd!|5
+ESD/0016/Angry/0016_000542.wav|aɪ hæv hædtə ɡɹˈoʊ ˈoʊld.|5
+ESD/0016/Happy/0016_001018.wav|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks.|5
+ESD/0016/Neutral/0016_000245.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|5
+ESD/0016/Sad/0016_001267.wav|juː kɹˈuːəlti ʃˌæl kˈɔst jʊɹ lˈaɪf !|5
+ESD/0016/Surprise/0016_001433.wav|ðɪs jˈuːzd təbi dʒˈɛɹiz ˌɑːkjʊpˈeɪʃən.|5
+ESD/0016/Happy/0016_001023.wav|wˌaɪ dˈɪd aɪ wˈeɪk ˈʌp!|5
+ESD/0016/Sad/0016_001071.wav|æz ɹˈɪtʃ æz pˈiːɾɚz sˈʌn ɪn lˈɔː!|5
+ESD/0016/Surprise/0016_001466.wav|ʃˌæl wiː lˈɛt bˈɑːɹbɚɹə ˈɪn?|5
+ESD/0016/Angry/0016_000501.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|5
+ESD/0016/Neutral/0016_000222.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|5
+ESD/0016/Happy/0016_000732.wav|hˌuː ɪz bˌɪn ɹᵻpˈiːɾɪŋ ˈɔːl ðæt hˈɑːɹd stˈʌf tə juː?|5
+ESD/0016/Neutral/0016_000252.wav|aɪɐm ɹˈʌn ˈɔf maɪ fˈiːt.|5
+ESD/0016/Surprise/0016_001478.wav|ðɪ ˈɑːɹt kwˈaɪt sˈeɪf wɪð mˌiː.|5
+ESD/0016/Angry/0016_000521.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|5
+ESD/0016/Sad/0016_001065.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|5
+ESD/0016/Angry/0016_000475.wav|tə kˈætʃ ðæt bˈʊlɹʌʃ ɹˈuːt wɪð maɪ pˈɔː!|5
+ESD/0016/Happy/0016_000897.wav|fˈɜː flˈuː θɹuː ðɪ ˈɛɹ, tˈiːθ nˈæʃt.|5
+ESD/0016/Neutral/0016_000123.wav|aɪɐm fɹʌm tˈaʊəl lˈænd.|5
+ESD/0016/Sad/0016_001345.wav|aɪ nˈoʊ hˌaʊ tʊ oʊbˈeɪ ˈɔːɹdɚz.|5
+ESD/0016/Surprise/0016_001540.wav|wˌʌt ɐn ɪmpˈɛtʃuːəs bˈɔɪ hiː ɪz!|5
+ESD/0016/Angry/0016_000524.wav|aɪ pˈeɪ hˈæf ɐ kɹˈaʊn ɐ wˈiːk ˈɛkstɹə.|5
+ESD/0016/Happy/0016_000759.wav|zˈiəɹoʊ fˈoːɹ θɹˈiː ɐ sˈɪlvɚ ʃˈɪlɪŋ ɪz dʒˈɜːni.|5
+ESD/0016/Neutral/0016_000115.wav|hiː mˌaɪt kˈɔːl ɪt, fɔːɹ ɛɡzˈæmpəl.|5
+ESD/0016/Sad/0016_001188.wav|bˌʌt wˈʌn ɹᵻkwˈaɪɚz ðɪ ɛksplˈoːɹɚ tə fˈɜːnɪʃ pɹˈuːfs.|5
+ESD/0016/Surprise/0016_001441.wav|aɪ tʃˈoʊz ðə ɹˈaɪt wˈeɪ.|5
+ESD/0016/Angry/0016_000666.wav|ɐ θˈiːf ɪnðə nˈaɪt.|5
+ESD/0016/Neutral/0016_000319.wav|hˌaʊ kʊd aɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz?|5
+ESD/0016/Sad/0016_001103.wav|hiː wʌz stˈɪl ɪnðə fˈɔːɹɪst!|5
+ESD/0016/Surprise/0016_001579.wav|dˈeɪzi kɹˈiːmz wɪð pˈɪŋk ˈɛdʒᵻz.|5
+ESD/0016/Happy/0016_000964.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|5
+ESD/0016/Angry/0016_000388.wav|hˈoʊld ˌʌp maɪ tʃˈɪn, slˈoʊ ænd sˈɑːlɪd.|5
+ESD/0016/Happy/0016_000982.wav|ˈælɪs aɪ woʊnt fɚɡˈɛt ɪɾ ɐɡˈɛn.|5
+ESD/0016/Neutral/0016_000077.wav|bˌʌt aɪ sˈɔː juː wˈɔːkɪŋ.|5
+ESD/0016/Surprise/0016_001722.wav|ɐ spˈɛʃəl pˈɑːt tˈuː.|5
+ESD/0016/Sad/0016_001295.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|5
+ESD/0016/Angry/0016_000603.wav|aɪ hæv ɐ sˈuːθseɪɚ.|5
+ESD/0016/Happy/0016_000962.wav|aɪ bᵻlˈiːv juː ɑːɹ wˈʌn ʌv ðˌɛm!|5
+ESD/0016/Neutral/0016_000313.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs.|5
+ESD/0016/Sad/0016_001282.wav|wɪl kˈɔːl hɜː lˈɪli, fɔːɹ ʃˈɔːɹt.|5
+ESD/0016/Surprise/0016_001618.wav|aɪl sˈɛnd fɔːɹ tˈɑːm tə maɪ bˈuːdwɑːɹ.|5
+ESD/0016/Angry/0016_000395.wav|ðə nˈæstiɪst θˈɪŋz ðeɪ sˈɔː wɜː ðə kˈɑːbwɛbz.|5
+ESD/0016/Happy/0016_000714.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː!|5
+ESD/0016/Neutral/0016_000195.wav|ɐ bˈoʊt pˌʊt ˈaʊtɔnðə bˈeɪ.|5
+ESD/0016/Surprise/0016_001647.wav|ʃiː ænd ˈaɪ ɑːɹ ɹˈʌnɪŋ ɐ nˈɛk ænd nˈɛk ɹˈeɪs.|5
+ESD/0016/Sad/0016_001195.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|5
+ESD/0016/Angry/0016_000640.wav|ðɛɹ ɡoʊz ðə ʃˈɔːl ɐɡˈɛn!|5
+ESD/0016/Happy/0016_000762.wav|tˈɑːm, wɛnt ˌɔn ˈiːjoːɹ ɡlˈuːmili.|5
+ESD/0016/Neutral/0016_000342.wav|wˌaɪ ʃˌʊd aɪ pˈɜːtʃɪs maɪ ˈoʊn?|5
+ESD/0016/Sad/0016_001151.wav|ɪts mˌiː pˈɪɡ lˈɪt, hˈɛlp hˈɛlp!|5
+ESD/0016/Surprise/0016_001628.wav|ɪt sˈɛz nˈoʊ wˈeɪ! ʃˈaʊɾᵻd dˈeɪzi.|5
+ESD/0016/Angry/0016_000605.wav|ðɪs wʌzðə twˈɛnti fˈɪfθ ʌv noʊvˈɛmbɚ, sˈɛvəntˌiːn ˈeɪɾi θɹˈiː.|5
+ESD/0016/Happy/0016_000720.wav|æt ðə ɹˈuːts əvə bˈʊʃ əvə ɡɹˈæs.|5
+ESD/0016/Neutral/0016_000150.wav|aɪ hˈoʊp juː ɛndʒˈɔɪd joːɹsˈɛlf?|5
+ESD/0016/Sad/0016_001060.wav|ɐ nˈɔːsɪəs dɹˈæft.|5
+ESD/0016/Surprise/0016_001517.wav|ðeɪ wɜː tʃˈɪldɹən ʌv mˈaɪn.|5
+ESD/0016/Angry/0016_000623.wav|aɪd dʒˈʌst æz sˈuːn swˈɪm jʊɹ wˈeɪ æz ˈʌðɚz dˈuː.|5
+ESD/0016/Happy/0016_000712.wav|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.|5
+ESD/0016/Neutral/0016_000176.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl.|5
+ESD/0016/Sad/0016_001264.wav|bˌʌt wʌt ɐbˌaʊt ðɪs θˈɪŋ, stˈɪki!|5
+ESD/0016/Surprise/0016_001732.wav|wˌɛɹ ɑːɹ juː ɡˈoʊɪŋ?|5
+ESD/0016/Angry/0016_000407.wav|hˈænɪbəl kˈʌm tə sˈiː juː.|5
+ESD/0016/Neutral/0016_000285.wav|ðə stɹˈɔː, tʃˈɑːɹkoʊl ænd ðə pˈiː.|5
+ESD/0016/Sad/0016_001254.wav|ðə sˈɔŋ ɪz ɹˈiəli lˈaʊdɪŋ ˌɔn ɐ ɡˈeɪt.|5
+ESD/0016/Happy/0016_001013.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs.|5
+ESD/0016/Surprise/0016_001576.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl.|5
+ESD/0016/Happy/0016_000758.wav|ðɪ ˈɑːktəpəs hɐz ˈeɪt lˈɛɡz.|5
+ESD/0016/Neutral/0016_000002.wav|aɪ dˈɪd ɡˈoʊ, ænd mˌeɪd mˈɛni pɹˈɪzənɚz.|5
+ESD/0016/Surprise/0016_001416.wav|mˈɪstɚ ʃˈɛɹ mˈæn, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.|5
+ESD/0016/Angry/0016_000364.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː!|5
+ESD/0016/Sad/0016_001158.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt.|5
+ESD/0016/Angry/0016_000618.wav|hiː ʃˈoʊd nˈoʊ sˈaɪnz ʌv ˈeɪdʒ.|5
+ESD/0016/Happy/0016_000785.wav|səpˈoʊz aɪ tˈeɪk ɡɹˈændmʌðɚɹ ɐ fɹˈɛʃ vˈɛdʒɪɾəbəl.|5
+ESD/0016/Sad/0016_001116.wav|ʃˌæl wiː lˈɛt bˈɑːɹbɚɹə ˈɪn?|5
+ESD/0016/Surprise/0016_001671.wav|aɪ sˈeɪ aɪ wɪl biː ˈɛmpɚɹɚ.|5
+ESD/0016/Neutral/0016_000171.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|5
+ESD/0017/Angry/0017_000402.wav|fɹʌm ˈɔːɡəst ˈeɪtiːnθ, ʌv ðɛɹ dᵻvˈoːɹs.|6
+ESD/0017/Happy/0017_000991.wav|ðɪ ˈɛnd ʌv fˈɛbɹuːˌɛɹi fˈoːɹtiːnθ.|6
+ESD/0017/Neutral/0017_000003.wav|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.|6
+ESD/0017/Sad/0017_001385.wav|bˌʌt θˈɪŋz hˈævənt tʃˈeɪndʒ jˈɛt.|6
+ESD/0017/Surprise/0017_001664.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|6
+ESD/0017/Angry/0017_000599.wav|juː mˈeɪ ɪmˈædʒɪn hˌaʊ aɪ ɡˈeɪp.|6
+ESD/0017/Happy/0017_000931.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|6
+ESD/0017/Neutral/0017_000349.wav|wˌʌt dˈuː juː θˈɪŋk ʌv ðɪs kwˈɛstʃən?|6
+ESD/0017/Sad/0017_001152.wav|ðɪs ɪz dʒˈæk, ðə ɹˈɛlətˌɪvz ʌv tˈɑːm.|6
+ESD/0017/Surprise/0017_001651.wav|ðə lˈeɪdɪbˌʌɡ tˈoʊld ðˌɛm pɹˈaʊdli.|6
+ESD/0017/Angry/0017_000511.wav|ðæts ɐ fˈʊl ɡɹˈoʊn kˈoʊlt.|6
+ESD/0017/Happy/0017_000922.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|6
+ESD/0017/Neutral/0017_000281.wav|hiː kʊd nˌɑːt hˈɛlp dˌuːɪŋ sˈoʊ.|6
+ESD/0017/Sad/0017_001400.wav|dˈuː juː hæv ˈɛnɪθˌɪŋ ɪn mˈaɪnd?|6
+ESD/0017/Surprise/0017_001551.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|6
+ESD/0017/Angry/0017_000458.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt.|6
+ESD/0017/Happy/0017_000744.wav|tˈeɪk kˈɜːɹɪdʒ ˈɔːl ˌɪzənt lˈɔst jˈɛt.|6
+ESD/0017/Neutral/0017_000015.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|6
+ESD/0017/Sad/0017_001143.wav|tə bˈaɪ tˈuː pˈoːɹk tʃˈɑːps.|6
+ESD/0017/Surprise/0017_001470.wav|tˈɑːm nˈaʊ lˈɛt ˌaʊɚɹ ˈæɹoʊz flˈaɪ!|6
+ESD/0017/Angry/0017_000621.wav|aɪ sˈeɪ aɪ wɪl biː ˈɛmpɚɹɚ.|6
+ESD/0017/Happy/0017_000739.wav|ˌaʊɚ θˈæŋks tə ɡˈɑːdz ˈoʊθ.|6
+ESD/0017/Neutral/0017_000279.wav|ðiːz wˈɜːdz bᵻhˌaɪnd ðɪ ˈɪɹz ɪz nˈɑːnsəns.|6
+ESD/0017/Sad/0017_001260.wav|ɪt wˈeɪz sˈɛvən pˈɔɪnt fˈaɪv kˈɪləɡɹˌæm.|6
+ESD/0017/Surprise/0017_001468.wav|aɪ duːnˌɑːt ˈiːt bɹˈɛd.|6
+ESD/0017/Angry/0017_000429.wav|ˈɔːl maɪ ɡˈʌm tˈɪps ɡɔn æz wˈɛl.|6
+ESD/0017/Happy/0017_000871.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|6
+ESD/0017/Neutral/0017_000162.wav|aɪ lˈɛnt dʒˈɔːɹdʒ θɹˈiː pˈaʊndz.|6
+ESD/0017/Surprise/0017_001519.wav|ðɪ ˈaʊl flˈuː ˌɪntʊ ɐ bˈʊʃ.|6
+ESD/0017/Sad/0017_001281.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|6
+ESD/0017/Angry/0017_000375.wav|ʃiː ɪz nˈaʊ tʃˈuːzɪŋ skˈɜːt tə wˈɛɹ.|6
+ESD/0017/Happy/0017_000969.wav|bˌʌt ʃˈoʊ mˌiː nˈaʊ jʊɹ mˈæp!|6
+ESD/0017/Neutral/0017_000199.wav|kˈæptɪn tˈɑːm ɹᵻsˈiːvz ɐn ˈæŋɡɹi lˈɛɾɚ.|6
+ESD/0017/Sad/0017_001204.wav|hiː dɹˈɛmpt ðˌɛm ˈɔːl nˈaɪt.|6
+ESD/0017/Surprise/0017_001536.wav|ʃiː hɐz ˈiːʔn̩ ðə tˌæpɪˈoʊkə ˈɔːl ʌv ɪt.|6
+ESD/0017/Angry/0017_000650.wav|sˈɪks wʌz hˈæf wˈeɪ dˌaʊn ðə ɹˈuːm.|6
+ESD/0017/Happy/0017_000975.wav|juː ʃˌʊdənthəv pɹˈɪkt hˌɪm wɪð jʊɹ hˈɔːɹn.|6
+ESD/0017/Neutral/0017_000185.wav|ðə nˈuː bˈɔːɹn bˈeɪbi ɪz stˈoʊlən æz wiː ɡˈoʊ.|6
+ESD/0017/Sad/0017_001072.wav|ænd wʌt ɑːɹ dˈoʊvz. ænd wʌt ɑːɹ dˈoʊvz.|6
+ESD/0017/Surprise/0017_001710.wav|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn.|6
+ESD/0017/Angry/0017_000401.wav|sˈɛd ðɪ ɐmˈɛɹɪkən tə tʃaɪnˈiːz.|6
+ESD/0017/Happy/0017_000845.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|6
+ESD/0017/Neutral/0017_000330.wav|ʃiː kˈiːps sˈeɪɪŋ aɪm hˈɜːz.|6
+ESD/0017/Sad/0017_001146.wav|aɪ dˈoʊnt pˈeɪntᵻd tˈaɪɡɚ.|6
+ESD/0017/Surprise/0017_001704.wav|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd!|6
+ESD/0017/Angry/0017_000542.wav|aɪ hæv hædtə ɡɹˈoʊ ˈoʊld.|6
+ESD/0017/Happy/0017_001018.wav|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks.|6
+ESD/0017/Neutral/0017_000245.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|6
+ESD/0017/Sad/0017_001267.wav|juː kɹˈuːəlti ʃˌæl kˈɔst jʊɹ lˈaɪf !|6
+ESD/0017/Surprise/0017_001433.wav|ðɪs jˈuːzd təbi dʒˈɛɹiz ˌɑːkjʊpˈeɪʃən.|6
+ESD/0017/Happy/0017_001023.wav|wˌaɪ dˈɪd aɪ wˈeɪk ˈʌp!|6
+ESD/0017/Sad/0017_001071.wav|æz ɹˈɪtʃ æz pˈiːɾɚz sˈʌn ɪn lˈɔː!|6
+ESD/0017/Surprise/0017_001466.wav|ʃˌæl wiː lˈɛt bˈɑːɹbɚɹə ˈɪn?|6
+ESD/0017/Angry/0017_000501.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|6
+ESD/0017/Neutral/0017_000222.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|6
+ESD/0017/Happy/0017_000732.wav|hˌuː ɪz bˌɪn ɹᵻpˈiːɾɪŋ ˈɔːl ðæt hˈɑːɹd stˈʌf tə juː?|6
+ESD/0017/Neutral/0017_000252.wav|aɪɐm ɹˈʌn ˈɔf maɪ fˈiːt.|6
+ESD/0017/Surprise/0017_001478.wav|ðɪ ˈɑːɹt kwˈaɪt sˈeɪf wɪð mˌiː.|6
+ESD/0017/Angry/0017_000521.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|6
+ESD/0017/Sad/0017_001065.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|6
+ESD/0017/Angry/0017_000475.wav|tə kˈætʃ ðæt bˈʊlɹʌʃ ɹˈuːt wɪð maɪ pˈɔː!|6
+ESD/0017/Happy/0017_000897.wav|fˈɜː flˈuː θɹuː ðɪ ˈɛɹ, tˈiːθ nˈæʃt.|6
+ESD/0017/Neutral/0017_000123.wav|aɪɐm fɹʌm tˈaʊəl lˈænd.|6
+ESD/0017/Sad/0017_001345.wav|aɪ nˈoʊ hˌaʊ tʊ oʊbˈeɪ ˈɔːɹdɚz.|6
+ESD/0017/Surprise/0017_001540.wav|wˌʌt ɐn ɪmpˈɛtʃuːəs bˈɔɪ hiː ɪz!|6
+ESD/0017/Angry/0017_000524.wav|aɪ pˈeɪ hˈæf ɐ kɹˈaʊn ɐ wˈiːk ˈɛkstɹə.|6
+ESD/0017/Happy/0017_000759.wav|zˈiəɹoʊ fˈoːɹ θɹˈiː ɐ sˈɪlvɚ ʃˈɪlɪŋ ɪz dʒˈɜːni.|6
+ESD/0017/Neutral/0017_000115.wav|hiː mˌaɪt kˈɔːl ɪt, fɔːɹ ɛɡzˈæmpəl.|6
+ESD/0017/Sad/0017_001188.wav|bˌʌt wˈʌn ɹᵻkwˈaɪɚz ðɪ ɛksplˈoːɹɚ tə fˈɜːnɪʃ pɹˈuːfs.|6
+ESD/0017/Surprise/0017_001441.wav|aɪ tʃˈoʊz ðə ɹˈaɪt wˈeɪ.|6
+ESD/0017/Angry/0017_000666.wav|ɐ θˈiːf ɪnðə nˈaɪt.|6
+ESD/0017/Neutral/0017_000319.wav|hˌaʊ kʊd aɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz?|6
+ESD/0017/Sad/0017_001103.wav|hiː wʌz stˈɪl ɪnðə fˈɔːɹɪst!|6
+ESD/0017/Surprise/0017_001579.wav|dˈeɪzi kɹˈiːmz wɪð pˈɪŋk ˈɛdʒᵻz.|6
+ESD/0017/Happy/0017_000964.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|6
+ESD/0017/Angry/0017_000388.wav|hˈoʊld ˌʌp maɪ tʃˈɪn, slˈoʊ ænd sˈɑːlɪd.|6
+ESD/0017/Happy/0017_000982.wav|ˈælɪs aɪ woʊnt fɚɡˈɛt ɪɾ ɐɡˈɛn.|6
+ESD/0017/Neutral/0017_000077.wav|bˌʌt aɪ sˈɔː juː wˈɔːkɪŋ.|6
+ESD/0017/Surprise/0017_001722.wav|ɐ spˈɛʃəl pˈɑːt tˈuː.|6
+ESD/0017/Sad/0017_001295.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|6
+ESD/0017/Angry/0017_000603.wav|aɪ hæv ɐ sˈuːθseɪɚ.|6
+ESD/0017/Happy/0017_000962.wav|aɪ bᵻlˈiːv juː ɑːɹ wˈʌn ʌv ðˌɛm!|6
+ESD/0017/Neutral/0017_000313.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs.|6
+ESD/0017/Sad/0017_001282.wav|wɪl kˈɔːl hɜː lˈɪli, fɔːɹ ʃˈɔːɹt.|6
+ESD/0017/Surprise/0017_001618.wav|aɪl sˈɛnd fɔːɹ tˈɑːm tə maɪ bˈuːdwɑːɹ.|6
+ESD/0017/Angry/0017_000395.wav|ðə nˈæstiɪst θˈɪŋz ðeɪ sˈɔː wɜː ðə kˈɑːbwɛbz.|6
+ESD/0017/Happy/0017_000714.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː!|6
+ESD/0017/Neutral/0017_000195.wav|ɐ bˈoʊt pˌʊt ˈaʊtɔnðə bˈeɪ.|6
+ESD/0017/Surprise/0017_001647.wav|ʃiː ænd ˈaɪ ɑːɹ ɹˈʌnɪŋ ɐ nˈɛk ænd nˈɛk ɹˈeɪs.|6
+ESD/0017/Sad/0017_001195.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|6
+ESD/0017/Angry/0017_000640.wav|ðɛɹ ɡoʊz ðə ʃˈɔːl ɐɡˈɛn!|6
+ESD/0017/Happy/0017_000762.wav|tˈɑːm, wɛnt ˌɔn ˈiːjoːɹ ɡlˈuːmili.|6
+ESD/0017/Neutral/0017_000342.wav|wˌaɪ ʃˌʊd aɪ pˈɜːtʃɪs maɪ ˈoʊn?|6
+ESD/0017/Sad/0017_001151.wav|ɪts mˌiː pˈɪɡ lˈɪt, hˈɛlp hˈɛlp!|6
+ESD/0017/Surprise/0017_001628.wav|ɪt sˈɛz nˈoʊ wˈeɪ! ʃˈaʊɾᵻd dˈeɪzi.|6
+ESD/0017/Angry/0017_000605.wav|ðɪs wʌzðə twˈɛnti fˈɪfθ ʌv noʊvˈɛmbɚ, sˈɛvəntˌiːn ˈeɪɾi θɹˈiː.|6
+ESD/0017/Happy/0017_000720.wav|æt ðə ɹˈuːtsəvə bˈʊʃ əvə ɡɹˈæs.|6
+ESD/0017/Neutral/0017_000150.wav|aɪ hˈoʊp juː ɛndʒˈɔɪd joːɹsˈɛlf?|6
+ESD/0017/Sad/0017_001060.wav|ɐ nˈɔːsɪəs dɹˈæft.|6
+ESD/0017/Surprise/0017_001517.wav|ðeɪ wɜː tʃˈɪldɹən ʌv mˈaɪn.|6
+ESD/0017/Angry/0017_000623.wav|aɪd dʒˈʌst æz sˈuːn swˈɪm jʊɹ wˈeɪ æz ˈʌðɚz dˈuː.|6
+ESD/0017/Happy/0017_000712.wav|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.|6
+ESD/0017/Neutral/0017_000176.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl.|6
+ESD/0017/Sad/0017_001264.wav|bˌʌt wʌt ɐbˌaʊt ðɪs θˈɪŋ, stˈɪki!|6
+ESD/0017/Surprise/0017_001732.wav|wˌɛɹ ɑːɹ juː ɡˈoʊɪŋ?|6
+ESD/0017/Angry/0017_000407.wav|hˈænɪbəl kˈʌm tə sˈiː juː.|6
+ESD/0017/Neutral/0017_000285.wav|ðə stɹˈɔː, tʃˈɑːɹkoʊl ænd ðə pˈiː.|6
+ESD/0017/Sad/0017_001254.wav|ðə sˈɔŋ ɪz ɹˈiəli lˈaʊdɪŋ ˌɔn ɐ ɡˈeɪt.|6
+ESD/0017/Happy/0017_001013.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs.|6
+ESD/0017/Surprise/0017_001576.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl.|6
+ESD/0017/Happy/0017_000758.wav|ðɪ ˈɑːktəpəs hɐz ˈeɪt lˈɛɡz.|6
+ESD/0017/Neutral/0017_000002.wav|aɪ dˈɪd ɡˈoʊ, ænd mˌeɪd mˈɛni pɹˈɪzənɚz.|6
+ESD/0018/Angry/0018_000402.wav|fɹʌm ˈɔːɡəst ˈeɪtiːnθ, ʌv ðɛɹ dᵻvˈoːɹs.|7
+ESD/0018/Happy/0018_000991.wav|ðɪ ˈɛnd ʌv fˈɛbɹuːˌɛɹi fˈoːɹtiːnθ.|7
+ESD/0018/Neutral/0018_000003.wav|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.|7
+ESD/0018/Sad/0018_001385.wav|bˌʌt θˈɪŋz hˈævənt tʃˈeɪndʒ jˈɛt.|7
+ESD/0018/Surprise/0018_001664.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|7
+ESD/0018/Angry/0018_000599.wav|juː mˈeɪ ɪmˈædʒɪn hˌaʊ aɪ ɡˈeɪp.|7
+ESD/0018/Happy/0018_000931.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|7
+ESD/0018/Neutral/0018_000349.wav|wˌʌt dˈuː juː θˈɪŋk ʌv ðɪs kwˈɛstʃən?|7
+ESD/0018/Sad/0018_001152.wav|ðɪs ɪz dʒˈæk, ðə ɹˈɛlətˌɪvz ʌv tˈɑːm.|7
+ESD/0018/Surprise/0018_001651.wav|ðə lˈeɪdɪbˌʌɡ tˈoʊld ðˌɛm pɹˈaʊdli.|7
+ESD/0018/Angry/0018_000511.wav|ðæts ɐ fˈʊl ɡɹˈoʊn kˈoʊlt.|7
+ESD/0018/Happy/0018_000922.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|7
+ESD/0018/Neutral/0018_000281.wav|hiː kʊd nˌɑːt hˈɛlp dˌuːɪŋ sˈoʊ.|7
+ESD/0018/Sad/0018_001400.wav|dˈuː juː hæv ˈɛnɪθˌɪŋ ɪn mˈaɪnd?|7
+ESD/0018/Surprise/0018_001551.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|7
+ESD/0018/Angry/0018_000458.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt.|7
+ESD/0018/Happy/0018_000744.wav|tˈeɪk kˈɜːɹɪdʒ ˈɔːl ˌɪzənt lˈɔst jˈɛt.|7
+ESD/0018/Neutral/0018_000015.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|7
+ESD/0018/Sad/0018_001143.wav|tə bˈaɪ tˈuː pˈoːɹk tʃˈɑːps.|7
+ESD/0018/Surprise/0018_001470.wav|tˈɑːm nˈaʊ lˈɛt ˌaʊɚɹ ˈæɹoʊz flˈaɪ!|7
+ESD/0018/Angry/0018_000621.wav|aɪ sˈeɪ aɪ wɪl biː ˈɛmpɚɹɚ.|7
+ESD/0018/Happy/0018_000739.wav|ˌaʊɚ θˈæŋks tə ɡˈɑːdz ˈoʊθ.|7
+ESD/0018/Neutral/0018_000279.wav|ðiːz wˈɜːdz bᵻhˌaɪnd ðɪ ˈɪɹz ɪz nˈɑːnsəns.|7
+ESD/0018/Sad/0018_001260.wav|ɪt wˈeɪz sˈɛvən pˈɔɪnt fˈaɪv kˈɪləɡɹˌæm.|7
+ESD/0018/Surprise/0018_001468.wav|aɪ duːnˌɑːt ˈiːt bɹˈɛd.|7
+ESD/0018/Angry/0018_000429.wav|ˈɔːl maɪ ɡˈʌm tˈɪps ɡɔn æz wˈɛl.|7
+ESD/0018/Happy/0018_000871.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|7
+ESD/0018/Neutral/0018_000162.wav|aɪ lˈɛnt dʒˈɔːɹdʒ θɹˈiː pˈaʊndz.|7
+ESD/0018/Surprise/0018_001519.wav|ðɪ ˈaʊl flˈuː ˌɪntʊ ɐ bˈʊʃ.|7
+ESD/0018/Sad/0018_001281.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|7
+ESD/0018/Angry/0018_000375.wav|ʃiː ɪz nˈaʊ tʃˈuːzɪŋ skˈɜːt tə wˈɛɹ.|7
+ESD/0018/Happy/0018_000969.wav|bˌʌt ʃˈoʊ mˌiː nˈaʊ jʊɹ mˈæp!|7
+ESD/0018/Neutral/0018_000199.wav|kˈæptɪn tˈɑːm ɹᵻsˈiːvz ɐn ˈæŋɡɹi lˈɛɾɚ.|7
+ESD/0018/Sad/0018_001204.wav|hiː dɹˈɛmpt ðˌɛm ˈɔːl nˈaɪt.|7
+ESD/0018/Surprise/0018_001536.wav|ʃiː hɐz ˈiːʔn̩ ðə tˌæpɪˈoʊkə ˈɔːl ʌv ɪt.|7
+ESD/0018/Angry/0018_000650.wav|sˈɪks wʌz hˈæf wˈeɪ dˌaʊn ðə ɹˈuːm.|7
+ESD/0018/Happy/0018_000975.wav|juː ʃˌʊdənthəv pɹˈɪkt hˌɪm wɪð jʊɹ hˈɔːɹn.|7
+ESD/0018/Neutral/0018_000185.wav|ðə nˈuː bˈɔːɹn bˈeɪbi ɪz stˈoʊlən æz wiː ɡˈoʊ.|7
+ESD/0018/Sad/0018_001072.wav|ænd wʌt ɑːɹ dˈoʊvz. ænd wʌt ɑːɹ dˈoʊvz.|7
+ESD/0018/Surprise/0018_001710.wav|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn.|7
+ESD/0018/Angry/0018_000401.wav|sˈɛd ðɪ ɐmˈɛɹɪkən tə tʃaɪnˈiːz.|7
+ESD/0018/Happy/0018_000845.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|7
+ESD/0018/Neutral/0018_000330.wav|ʃiː kˈiːps sˈeɪɪŋ aɪm hˈɜːz.|7
+ESD/0018/Sad/0018_001146.wav|aɪ dˈoʊnt pˈeɪntᵻd tˈaɪɡɚ.|7
+ESD/0018/Surprise/0018_001704.wav|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd!|7
+ESD/0018/Angry/0018_000542.wav|aɪ hæv hædtə ɡɹˈoʊ ˈoʊld.|7
+ESD/0018/Happy/0018_001018.wav|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks.|7
+ESD/0018/Neutral/0018_000245.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|7
+ESD/0018/Sad/0018_001267.wav|juː kɹˈuːəlti ʃˌæl kˈɔst jʊɹ lˈaɪf !|7
+ESD/0018/Surprise/0018_001433.wav|ðɪs jˈuːzd təbi dʒˈɛɹiz ˌɑːkjʊpˈeɪʃən.|7
+ESD/0018/Happy/0018_001023.wav|wˌaɪ dˈɪd aɪ wˈeɪk ˈʌp!|7
+ESD/0018/Sad/0018_001071.wav|æz ɹˈɪtʃæz pˈiːɾɚz sˈʌn ɪn lˈɔː!|7
+ESD/0018/Surprise/0018_001466.wav|ʃˌæl wiː lˈɛt bˈɑːɹbɚɹə ˈɪn?|7
+ESD/0018/Angry/0018_000501.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|7
+ESD/0018/Neutral/0018_000222.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|7
+ESD/0018/Happy/0018_000732.wav|hˌuː ɪz bˌɪn ɹᵻpˈiːɾɪŋ ˈɔːl ðæt hˈɑːɹd stˈʌf tə juː?|7
+ESD/0018/Neutral/0018_000252.wav|aɪɐm ɹˈʌn ˈɔf maɪ fˈiːt.|7
+ESD/0018/Surprise/0018_001478.wav|ðɪ ˈɑːɹt kwˈaɪt sˈeɪf wɪð mˌiː.|7
+ESD/0018/Angry/0018_000521.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|7
+ESD/0018/Sad/0018_001065.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|7
+ESD/0018/Angry/0018_000475.wav|tə kˈætʃ ðæt bˈʊlɹʌʃ ɹˈuːt wɪð maɪ pˈɔː!|7
+ESD/0018/Happy/0018_000897.wav|fˈɜː flˈuː θɹuː ðɪ ˈɛɹ, tˈiːθ nˈæʃt.|7
+ESD/0018/Neutral/0018_000123.wav|aɪɐm fɹʌm tˈaʊəl lˈænd.|7
+ESD/0018/Sad/0018_001345.wav|aɪ nˈoʊ hˌaʊ tʊ oʊbˈeɪ ˈɔːɹdɚz.|7
+ESD/0018/Surprise/0018_001540.wav|wˌʌt ɐn ɪmpˈɛtʃuːəs bˈɔɪ hiː ɪz!|7
+ESD/0018/Angry/0018_000524.wav|aɪ pˈeɪ hˈæf ɐ kɹˈaʊn ɐ wˈiːk ˈɛkstɹə.|7
+ESD/0018/Happy/0018_000759.wav|zˈiəɹoʊ fˈoːɹ θɹˈiː ɐ sˈɪlvɚ ʃˈɪlɪŋ ɪz dʒˈɜːni.|7
+ESD/0018/Neutral/0018_000115.wav|hiː mˌaɪt kˈɔːl ɪt, fɔːɹ ɛɡzˈæmpəl.|7
+ESD/0018/Sad/0018_001188.wav|bˌʌt wˈʌn ɹᵻkwˈaɪɚz ðɪ ɛksplˈoːɹɚ tə fˈɜːnɪʃ pɹˈuːfs.|7
+ESD/0018/Surprise/0018_001441.wav|aɪ tʃˈoʊz ðə ɹˈaɪt wˈeɪ.|7
+ESD/0018/Angry/0018_000666.wav|ɐ θˈiːf ɪnðə nˈaɪt.|7
+ESD/0018/Neutral/0018_000319.wav|hˌaʊ kʊd aɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz?|7
+ESD/0018/Sad/0018_001103.wav|hiː wʌz stˈɪl ɪnðə fˈɔːɹɪst!|7
+ESD/0018/Surprise/0018_001579.wav|dˈeɪzi kɹˈiːmz wɪð pˈɪŋk ˈɛdʒᵻz.|7
+ESD/0018/Happy/0018_000964.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|7
+ESD/0018/Angry/0018_000388.wav|hˈoʊld ˌʌp maɪ tʃˈɪn, slˈoʊ ænd sˈɑːlɪd.|7
+ESD/0018/Happy/0018_000982.wav|ˈælɪs aɪ woʊnt fɚɡˈɛt ɪɾ ɐɡˈɛn.|7
+ESD/0018/Neutral/0018_000077.wav|bˌʌt aɪ sˈɔː juː wˈɔːkɪŋ.|7
+ESD/0018/Surprise/0018_001722.wav|ɐ spˈɛʃəl pˈɑːt tˈuː.|7
+ESD/0018/Sad/0018_001295.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|7
+ESD/0018/Angry/0018_000603.wav|aɪ hæv ɐ sˈuːθseɪɚ.|7
+ESD/0018/Happy/0018_000962.wav|aɪ bᵻlˈiːv juː ɑːɹ wˈʌn ʌv ðˌɛm!|7
+ESD/0018/Neutral/0018_000313.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs.|7
+ESD/0018/Sad/0018_001282.wav|wɪl kˈɔːl hɜː lˈɪli, fɔːɹ ʃˈɔːɹt.|7
+ESD/0018/Surprise/0018_001618.wav|aɪl sˈɛnd fɔːɹ tˈɑːm tə maɪ bˈuːdwɑːɹ.|7
+ESD/0018/Angry/0018_000395.wav|ðə nˈæstiɪst θˈɪŋz ðeɪ sˈɔː wɜː ðə kˈɑːbwɛbz.|7
+ESD/0018/Happy/0018_000714.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː!|7
+ESD/0018/Neutral/0018_000195.wav|ɐ bˈoʊt pˌʊt ˈaʊtɔnðə bˈeɪ.|7
+ESD/0018/Surprise/0018_001647.wav|ʃiː ænd ˈaɪ ɑːɹ ɹˈʌnɪŋ ɐ nˈɛk ænd nˈɛk ɹˈeɪs.|7
+ESD/0018/Sad/0018_001195.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|7
+ESD/0018/Angry/0018_000640.wav|ðɛɹ ɡoʊz ðə ʃˈɔːl ɐɡˈɛn!|7
+ESD/0018/Happy/0018_000762.wav|tˈɑːm, wɛnt ˌɔn ˈiːjoːɹ ɡlˈuːmili.|7
+ESD/0018/Neutral/0018_000342.wav|wˌaɪ ʃˌʊd aɪ pˈɜːtʃɪs maɪ ˈoʊn?|7
+ESD/0018/Sad/0018_001151.wav|ɪts mˌiː pˈɪɡlɪt, hˈɛlp hˈɛlp!|7
+ESD/0018/Surprise/0018_001628.wav|ɪt sˈɛz nˈoʊ wˈeɪ! ʃˈaʊɾᵻd dˈeɪzi.|7
+ESD/0018/Angry/0018_000605.wav|ðɪs wʌzðə twˈɛnti fˈɪfθ ʌv noʊvˈɛmbɚ, sˈɛvəntˌiːn ˈeɪɾi θɹˈiː.|7
+ESD/0018/Happy/0018_000720.wav|æt ðə ɹˈuːtsəvə bˈʊʃ əvə ɡɹˈæs.|7
+ESD/0018/Neutral/0018_000150.wav|aɪ hˈoʊp juː ɛndʒˈɔɪd joːɹsˈɛlf?|7
+ESD/0018/Sad/0018_001060.wav|ɐ nˈɔːsɪəs dɹˈæft.|7
+ESD/0018/Surprise/0018_001517.wav|ðeɪ wɜː tʃˈɪldɹən ʌv mˈaɪn.|7
+ESD/0018/Angry/0018_000623.wav|aɪd dʒˈʌst æz sˈuːn swˈɪm jʊɹ wˈeɪ æz ˈʌðɚz dˈuː.|7
+ESD/0018/Happy/0018_000712.wav|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.|7
+ESD/0018/Neutral/0018_000176.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl.|7
+ESD/0018/Sad/0018_001264.wav|bˌʌt wʌt ɐbˌaʊt ðɪs θˈɪŋ, stˈɪki!|7
+ESD/0018/Surprise/0018_001732.wav|wˌɛɹ ɑːɹ juː ɡˈoʊɪŋ?|7
+ESD/0018/Angry/0018_000407.wav|hˈænɪbəl kˈʌm tə sˈiː juː.|7
+ESD/0018/Neutral/0018_000285.wav|ðə stɹˈɔː, tʃˈɑːɹkoʊl ænd ðə pˈiː.|7
+ESD/0018/Sad/0018_001254.wav|ðə sˈɔŋ ɪz ɹˈiəli lˈaʊdɪŋ ˌɔn ɐ ɡˈeɪt.|7
+ESD/0018/Happy/0018_001013.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs.|7
+ESD/0018/Surprise/0018_001576.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl.|7
+ESD/0018/Happy/0018_000758.wav|ðɪ ˈɑːktəpəs hɐz ˈeɪt lˈɛɡz.|7
+ESD/0018/Neutral/0018_000002.wav|aɪ dˈɪd ɡˈoʊ, ænd mˌeɪd mˈɛni pɹˈɪzənɚz.|7
+ESD/0018/Surprise/0018_001416.wav|mˈɪstɚ ʃˈɛɹ mˈæn, aɪ mˈuːv fɚɹə dᵻvˈɪʒən.|7
+ESD/0018/Angry/0018_000364.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː!|7
+ESD/0018/Sad/0018_001158.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt.|7
+ESD/0019/Angry/0019_000402.wav|fɹʌm ˈɔːɡəst ˈeɪtiːnθ, ʌv ðɛɹ dᵻvˈoːɹs.|8
+ESD/0019/Happy/0019_000991.wav|ðɪ ˈɛnd ʌv fˈɛbɹuːˌɛɹi fˈoːɹtiːnθ.|8
+ESD/0019/Neutral/0019_000003.wav|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.|8
+ESD/0019/Sad/0019_001385.wav|bˌʌt θˈɪŋz hˈævənt tʃˈeɪndʒ jˈɛt.|8
+ESD/0019/Surprise/0019_001664.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|8
+ESD/0019/Angry/0019_000599.wav|juː mˈeɪ ɪmˈædʒɪn hˌaʊ aɪ ɡˈeɪp.|8
+ESD/0019/Happy/0019_000931.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|8
+ESD/0019/Neutral/0019_000349.wav|wˌʌt dˈuː juː θˈɪŋk ʌv ðɪs kwˈɛstʃən?|8
+ESD/0019/Sad/0019_001152.wav|ðɪs ɪz dʒˈæk, ðə ɹˈɛlətˌɪvz ʌv tˈɑːm.|8
+ESD/0019/Surprise/0019_001651.wav|ðə lˈeɪdɪbˌʌɡ tˈoʊld ðˌɛm pɹˈaʊdli.|8
+ESD/0019/Angry/0019_000511.wav|ðæts ɐ fˈʊl ɡɹˈoʊn kˈoʊlt.|8
+ESD/0019/Happy/0019_000922.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|8
+ESD/0019/Neutral/0019_000281.wav|hiː kʊd nˌɑːt hˈɛlp dˌuːɪŋ sˈoʊ.|8
+ESD/0019/Sad/0019_001400.wav|dˈuː juː hæv ˈɛnɪθˌɪŋ ɪn mˈaɪnd?|8
+ESD/0019/Surprise/0019_001551.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|8
+ESD/0019/Angry/0019_000458.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt.|8
+ESD/0019/Happy/0019_000744.wav|tˈeɪk kˈɜːɹɪdʒ ˈɔːl ˌɪzənt lˈɔst jˈɛt.|8
+ESD/0019/Neutral/0019_000015.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|8
+ESD/0019/Sad/0019_001143.wav|tə bˈaɪ tˈuː pˈoːɹk tʃˈɑːps.|8
+ESD/0019/Surprise/0019_001470.wav|tˈɑːm nˈaʊ lˈɛt ˌaʊɚɹ ˈæɹoʊz flˈaɪ!|8
+ESD/0019/Angry/0019_000621.wav|aɪ sˈeɪ aɪ wɪl biː ˈɛmpɚɹɚ.|8
+ESD/0019/Happy/0019_000739.wav|ˌaʊɚ θˈæŋks tə ɡˈɑːdz ˈoʊθ.|8
+ESD/0019/Neutral/0019_000279.wav|ðiːz wˈɜːdz bᵻhˌaɪnd ðɪ ˈɪɹz ɪz nˈɑːnsəns.|8
+ESD/0019/Sad/0019_001260.wav|ɪt wˈeɪz sˈɛvən pˈɔɪnt fˈaɪv kˈɪləɡɹˌæm.|8
+ESD/0019/Surprise/0019_001468.wav|aɪ duːnˌɑːt ˈiːt bɹˈɛd.|8
+ESD/0019/Angry/0019_000429.wav|ˈɔːl maɪ ɡˈʌm tˈɪps ɡɔn æz wˈɛl.|8
+ESD/0019/Happy/0019_000871.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|8
+ESD/0019/Neutral/0019_000162.wav|aɪ lˈɛnt dʒˈɔːɹdʒ θɹˈiː pˈaʊndz.|8
+ESD/0019/Surprise/0019_001519.wav|ðɪ ˈaʊl flˈuː ˌɪntʊ ɐ bˈʊʃ.|8
+ESD/0019/Sad/0019_001281.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|8
+ESD/0019/Angry/0019_000375.wav|ʃiː ɪz nˈaʊ tʃˈuːzɪŋ skˈɜːt tə wˈɛɹ.|8
+ESD/0019/Happy/0019_000969.wav|bˌʌt ʃˈoʊ mˌiː nˈaʊ jʊɹ mˈæp!|8
+ESD/0019/Neutral/0019_000199.wav|kˈæptɪn tˈɑːm ɹᵻsˈiːvz ɐn ˈæŋɡɹi lˈɛɾɚ.|8
+ESD/0019/Sad/0019_001204.wav|hiː dɹˈɛmpt ðˌɛm ˈɔːl nˈaɪt.|8
+ESD/0019/Surprise/0019_001536.wav|ʃiː hɐz ˈiːʔn̩ ðə tˌæpɪˈoʊkə ˈɔːlʌv ɪt.|8
+ESD/0019/Angry/0019_000650.wav|sˈɪks wʌz hˈæf wˈeɪ dˌaʊn ðə ɹˈuːm.|8
+ESD/0019/Happy/0019_000975.wav|juː ʃˌʊdənthəv pɹˈɪkt hˌɪm wɪð jʊɹ hˈɔːɹn.|8
+ESD/0019/Neutral/0019_000185.wav|ðə nˈuː bˈɔːɹn bˈeɪbi ɪz stˈoʊlən æz wiː ɡˈoʊ.|8
+ESD/0019/Sad/0019_001072.wav|ænd wʌt ɑːɹ dˈoʊvz. ænd wʌt ɑːɹ dˈoʊvz.|8
+ESD/0019/Surprise/0019_001710.wav|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn.|8
+ESD/0019/Angry/0019_000401.wav|sˈɛd ðɪ ɐmˈɛɹɪkən tə tʃaɪnˈiːz.|8
+ESD/0019/Happy/0019_000845.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|8
+ESD/0019/Neutral/0019_000330.wav|ʃiː kˈiːps sˈeɪɪŋ aɪm hˈɜːz.|8
+ESD/0019/Sad/0019_001146.wav|aɪ dˈoʊnt pˈeɪntᵻd tˈaɪɡɚ.|8
+ESD/0019/Surprise/0019_001704.wav|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd!|8
+ESD/0019/Angry/0019_000542.wav|aɪ hæv hædtə ɡɹˈoʊ ˈoʊld.|8
+ESD/0019/Happy/0019_001018.wav|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks.|8
+ESD/0019/Neutral/0019_000245.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|8
+ESD/0019/Sad/0019_001267.wav|juː kɹˈuːəlti ʃˌæl kˈɔst jʊɹ lˈaɪf !|8
+ESD/0019/Surprise/0019_001433.wav|ðɪs jˈuːzd təbi dʒˈɛɹiz ˌɑːkjʊpˈeɪʃən.|8
+ESD/0019/Happy/0019_001023.wav|wˌaɪ dˈɪd aɪ wˈeɪk ˈʌp!|8
+ESD/0019/Sad/0019_001071.wav|æz ɹˈɪtʃæz pˈiːɾɚz sˈʌn ɪn lˈɔː!|8
+ESD/0019/Surprise/0019_001466.wav|ʃˌæl wiː lˈɛt bˈɑːɹbɚɹə ˈɪn?|8
+ESD/0019/Angry/0019_000501.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|8
+ESD/0019/Neutral/0019_000222.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|8
+ESD/0019/Happy/0019_000732.wav|hˌuː ɪz bˌɪn ɹᵻpˈiːɾɪŋ ˈɔːl ðæt hˈɑːɹd stˈʌf tə juː?|8
+ESD/0019/Neutral/0019_000252.wav|aɪɐm ɹˈʌn ˈɔf maɪ fˈiːt.|8
+ESD/0019/Surprise/0019_001478.wav|ðɪ ˈɑːɹt kwˈaɪt sˈeɪf wɪð mˌiː.|8
+ESD/0019/Angry/0019_000521.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|8
+ESD/0019/Sad/0019_001065.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|8
+ESD/0019/Angry/0019_000475.wav|tə kˈætʃ ðæt bˈʊlɹʌʃ ɹˈuːt wɪð maɪ pˈɔː!|8
+ESD/0019/Happy/0019_000897.wav|fˈɜː flˈuː θɹuː ðɪ ˈɛɹ, tˈiːθ nˈæʃt.|8
+ESD/0019/Neutral/0019_000123.wav|aɪɐm fɹʌm tˈaʊəl lˈænd.|8
+ESD/0019/Sad/0019_001345.wav|aɪ nˈoʊ hˌaʊ tʊ oʊbˈeɪ ˈɔːɹdɚz.|8
+ESD/0019/Surprise/0019_001540.wav|wˌʌt ɐn ɪmpˈɛtʃuːəs bˈɔɪ hiː ɪz!|8
+ESD/0019/Angry/0019_000524.wav|aɪ pˈeɪ hˈæf ɐ kɹˈaʊn ɐ wˈiːk ˈɛkstɹə.|8
+ESD/0019/Happy/0019_000759.wav|zˈiəɹoʊ fˈoːɹ θɹˈiː ɐ sˈɪlvɚ ʃˈɪlɪŋ ɪz dʒˈɜːni.|8
+ESD/0019/Neutral/0019_000115.wav|hiː mˌaɪt kˈɔːl ɪt, fɔːɹ ɛɡzˈæmpəl.|8
+ESD/0019/Sad/0019_001188.wav|bˌʌt wˈʌn ɹᵻkwˈaɪɚz ðɪ ɛksplˈoːɹɚ tə fˈɜːnɪʃ pɹˈuːfs.|8
+ESD/0019/Surprise/0019_001441.wav|aɪ tʃˈoʊz ðə ɹˈaɪt wˈeɪ.|8
+ESD/0019/Angry/0019_000666.wav|ɐ θˈiːf ɪnðə nˈaɪt.|8
+ESD/0019/Neutral/0019_000319.wav|hˌaʊ kʊd aɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz?|8
+ESD/0019/Sad/0019_001103.wav|hiː wʌz stˈɪl ɪnðə fˈɔːɹɪst!|8
+ESD/0019/Surprise/0019_001579.wav|dˈeɪzi kɹˈiːmz wɪð pˈɪŋk ˈɛdʒᵻz.|8
+ESD/0019/Happy/0019_000964.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|8
+ESD/0019/Angry/0019_000388.wav|hˈoʊld ˌʌp maɪ tʃˈɪn, slˈoʊ ænd sˈɑːlɪd.|8
+ESD/0019/Happy/0019_000982.wav|ˈælɪs aɪ woʊnt fɚɡˈɛt ɪɾ ɐɡˈɛn.|8
+ESD/0019/Neutral/0019_000077.wav|bˌʌt aɪ sˈɔː juː wˈɔːkɪŋ.|8
+ESD/0019/Surprise/0019_001722.wav|ɐ spˈɛʃəl pˈɑːt tˈuː.|8
+ESD/0019/Sad/0019_001295.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|8
+ESD/0019/Angry/0019_000603.wav|aɪ hæv ɐ sˈuːθseɪɚ.|8
+ESD/0019/Happy/0019_000962.wav|aɪ bᵻlˈiːv juː ɑːɹ wˈʌn ʌv ðˌɛm!|8
+ESD/0019/Neutral/0019_000313.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs.|8
+ESD/0019/Sad/0019_001282.wav|wɪl kˈɔːl hɜː lˈɪli, fɔːɹ ʃˈɔːɹt.|8
+ESD/0019/Surprise/0019_001618.wav|aɪl sˈɛnd fɔːɹ tˈɑːm tə maɪ bˈuːdwɑːɹ.|8
+ESD/0019/Angry/0019_000395.wav|ðə nˈæstiɪst θˈɪŋz ðeɪ sˈɔː wɜː ðə kˈɑːbwɛbz.|8
+ESD/0019/Happy/0019_000714.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː!|8
+ESD/0019/Neutral/0019_000195.wav|ɐ bˈoʊt pˌʊt ˈaʊtɔnðə bˈeɪ.|8
+ESD/0019/Surprise/0019_001647.wav|ʃiː ænd ˈaɪ ɑːɹ ɹˈʌnɪŋ ɐ nˈɛk ænd nˈɛk ɹˈeɪs.|8
+ESD/0019/Sad/0019_001195.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|8
+ESD/0019/Angry/0019_000640.wav|ðɛɹ ɡoʊz ðə ʃˈɔːl ɐɡˈɛn!|8
+ESD/0019/Happy/0019_000762.wav|tˈɑːm, wɛnt ˌɔn ˈiːjoːɹ ɡlˈuːmili.|8
+ESD/0019/Neutral/0019_000342.wav|wˌaɪ ʃˌʊd aɪ pˈɜːtʃɪs maɪ ˈoʊn?|8
+ESD/0019/Sad/0019_001151.wav|ɪts mˌiː pˈɪɡlɪt, hˈɛlp hˈɛlp!|8
+ESD/0019/Surprise/0019_001628.wav|ɪt sˈɛz nˈoʊ wˈeɪ! ʃˈaʊɾᵻd dˈeɪzi.|8
+ESD/0019/Angry/0019_000605.wav|ðɪs wʌzðə twˈɛnti fˈɪfθ ʌv noʊvˈɛmbɚ, sˈɛvəntˌiːn ˈeɪɾi θɹˈiː.|8
+ESD/0019/Happy/0019_000720.wav|æt ðə ɹˈuːtsəvə bˈʊʃ əvə ɡɹˈæs.|8
+ESD/0019/Neutral/0019_000150.wav|aɪ hˈoʊp juː ɛndʒˈɔɪd joːɹsˈɛlf?|8
+ESD/0019/Sad/0019_001060.wav|ɐ nˈɔːsɪəs dɹˈæft.|8
+ESD/0019/Surprise/0019_001517.wav|ðeɪ wɜː tʃˈɪldɹən ʌv mˈaɪn.|8
+ESD/0019/Angry/0019_000623.wav|aɪd dʒˈʌst æz sˈuːn swˈɪm jʊɹ wˈeɪ æz ˈʌðɚz dˈuː.|8
+ESD/0019/Happy/0019_000712.wav|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.|8
+ESD/0019/Neutral/0019_000176.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl.|8
+ESD/0019/Sad/0019_001264.wav|bˌʌt wʌt ɐbˌaʊt ðɪs θˈɪŋ, stˈɪki!|8
+ESD/0019/Surprise/0019_001732.wav|wˌɛɹ ɑːɹ juː ɡˈoʊɪŋ?|8
+ESD/0019/Angry/0019_000407.wav|hˈænɪbəl kˈʌm tə sˈiː juː.|8
+ESD/0019/Neutral/0019_000285.wav|ðə stɹˈɔː, tʃˈɑːɹkoʊl ænd ðə pˈiː.|8
+ESD/0019/Sad/0019_001254.wav|ðə sˈɔŋ ɪz ɹˈiəli lˈaʊdɪŋ ˌɔn ɐ ɡˈeɪt.|8
+ESD/0019/Happy/0019_001013.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs.|8
+ESD/0019/Surprise/0019_001576.wav|ʃiː dʒˈʌst smˈaɪld kˈɑːmli, mˈʌðɚ nˈoʊz ðæt ɪz ðə bˈɛst smˈaɪl.|8
+ESD/0020/Angry/0020_000402.wav|fɹʌm ˈɔːɡəst ˈeɪtiːnθ, ʌv ðɛɹ dᵻvˈoːɹs.|9
+ESD/0020/Happy/0020_000991.wav|ðɪ ˈɛnd ʌv fˈɛbɹuːˌɛɹi fˈoːɹtiːnθ.|9
+ESD/0020/Neutral/0020_000003.wav|ðæt aɪ ˈoʊ maɪ θˈæŋks tə juː.|9
+ESD/0020/Sad/0020_001385.wav|bˌʌt θˈɪŋz hˈævənt tʃˈeɪndʒ jˈɛt.|9
+ESD/0020/Surprise/0020_001664.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|9
+ESD/0020/Angry/0020_000599.wav|juː mˈeɪ ɪmˈædʒɪn hˌaʊ aɪ ɡˈeɪp.|9
+ESD/0020/Happy/0020_000931.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|9
+ESD/0020/Neutral/0020_000349.wav|wˌʌt dˈuː juː θˈɪŋk ʌv ðɪs kwˈɛstʃən?|9
+ESD/0020/Sad/0020_001152.wav|ðɪs ɪz dʒˈæk, ðə ɹˈɛlətˌɪvz ʌv tˈɑːm.|9
+ESD/0020/Surprise/0020_001651.wav|ðə lˈeɪdɪbˌʌɡ tˈoʊld ðˌɛm pɹˈaʊdli.|9
+ESD/0020/Angry/0020_000511.wav|ðæts ɐ fˈʊl ɡɹˈoʊn kˈoʊlt.|9
+ESD/0020/Happy/0020_000922.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|9
+ESD/0020/Neutral/0020_000281.wav|hiː kʊd nˌɑːt hˈɛlp dˌuːɪŋ sˈoʊ.|9
+ESD/0020/Sad/0020_001400.wav|dˈuː juː hæv ˈɛnɪθˌɪŋ ɪn mˈaɪnd?|9
+ESD/0020/Surprise/0020_001551.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|9
+ESD/0020/Angry/0020_000458.wav|ðə skwˈaɪɚ hɪmsˈɛlf ʃˈoʊd pˈɜːfɛkt.|9
+ESD/0020/Happy/0020_000744.wav|tˈeɪk kˈɜːɹɪdʒ ˈɔːl ˌɪzənt lˈɔst jˈɛt.|9
+ESD/0020/Neutral/0020_000015.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|9
+ESD/0020/Sad/0020_001143.wav|tə bˈaɪ tˈuː pˈoːɹk tʃˈɑːps.|9
+ESD/0020/Surprise/0020_001470.wav|tˈɑːm nˈaʊ lˈɛt ˌaʊɚɹ ˈæɹoʊz flˈaɪ!|9
+ESD/0020/Angry/0020_000621.wav|aɪ sˈeɪ aɪ wɪl biː ˈɛmpɚɹɚ.|9
+ESD/0020/Happy/0020_000739.wav|ˌaʊɚ θˈæŋks tə ɡˈɑːdz ˈoʊθ.|9
+ESD/0020/Neutral/0020_000279.wav|ðiːz wˈɜːdz bᵻhˌaɪnd ðɪ ˈɪɹz ɪz nˈɑːnsəns.|9
+ESD/0020/Sad/0020_001260.wav|ɪt wˈeɪz sˈɛvən pˈɔɪnt fˈaɪv kˈɪləɡɹˌæm.|9
+ESD/0020/Surprise/0020_001468.wav|aɪ duːnˌɑːt ˈiːt bɹˈɛd.|9
+ESD/0020/Angry/0020_000429.wav|ˈɔːl maɪ ɡˈʌm tˈɪps ɡɔn æz wˈɛl.|9
+ESD/0020/Happy/0020_000871.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|9
+ESD/0020/Neutral/0020_000162.wav|aɪ lˈɛnt dʒˈɔːɹdʒ θɹˈiː pˈaʊndz.|9
+ESD/0020/Surprise/0020_001519.wav|ðɪ ˈaʊl flˈuː ˌɪntʊ ɐ bˈʊʃ.|9
+ESD/0020/Sad/0020_001281.wav|hiː tˈoʊld mˌiː ðæt aɪ ˈɔːt tə tʃˈeɪndʒ.|9
+ESD/0020/Angry/0020_000375.wav|ʃiː ɪz nˈaʊ tʃˈuːzɪŋ skˈɜːt tə wˈɛɹ.|9
+ESD/0020/Happy/0020_000969.wav|bˌʌt ʃˈoʊ mˌiː nˈaʊ jʊɹ mˈæp!|9
+ESD/0020/Neutral/0020_000199.wav|kˈæptɪn tˈɑːm ɹᵻsˈiːvz ɐn ˈæŋɡɹi lˈɛɾɚ.|9
+ESD/0020/Sad/0020_001204.wav|hiː dɹˈɛmpt ðˌɛm ˈɔːl nˈaɪt.|9
+ESD/0020/Surprise/0020_001536.wav|ʃiː hɐz ˈiːʔn̩ ðə tˌæpɪˈoʊkə ˈɔːl ʌv ɪt.|9
+ESD/0020/Angry/0020_000650.wav|sˈɪks wʌz hˈæf wˈeɪ dˌaʊn ðə ɹˈuːm.|9
+ESD/0020/Happy/0020_000975.wav|juː ʃˌʊdənthəv pɹˈɪkt hˌɪm wɪð jʊɹ hˈɔːɹn.|9
+ESD/0020/Neutral/0020_000185.wav|ðə nˈuː bˈɔːɹn bˈeɪbi ɪz stˈoʊlən æz wiː ɡˈoʊ.|9
+ESD/0020/Sad/0020_001072.wav|ænd wʌt ɑːɹ dˈoʊvz. ænd wʌt ɑːɹ dˈoʊvz.|9
+ESD/0020/Surprise/0020_001710.wav|wˌaɪ ɪɾ ɪz dʒˈʌst lˈaɪk ðə ɹˈaʊnd ˈɛɡ wˌɪtʃ sˈaʊndz θˈɪn.|9
+ESD/0020/Angry/0020_000401.wav|sˈɛd ðɪ ɐmˈɛɹɪkən tə tʃaɪnˈiːz.|9
+ESD/0020/Happy/0020_000845.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|9
+ESD/0020/Neutral/0020_000330.wav|ʃiː kˈiːps sˈeɪɪŋ aɪm hˈɜːz.|9
+ESD/0020/Sad/0020_001146.wav|aɪ dˈoʊnt pˈeɪntᵻd tˈaɪɡɚ.|9
+ESD/0020/Surprise/0020_001704.wav|hˌaʊ dˈuː juː lˈaɪk juː dˈɜːɾi bˈɜːd!|9
+ESD/0020/Angry/0020_000542.wav|aɪ hæv hædtə ɡɹˈoʊ ˈoʊld.|9
+ESD/0020/Happy/0020_001018.wav|ðə nˈeɪm ʌvðə sˈɔŋ ɪz kˈɔːld hˈædəks.|9
+ESD/0020/Neutral/0020_000245.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|9
+ESD/0020/Sad/0020_001267.wav|juː kɹˈuːəlti ʃˌæl kˈɔst jʊɹ lˈaɪf !|9
+ESD/0020/Surprise/0020_001433.wav|ðɪs jˈuːzd təbi dʒˈɛɹiz ˌɑːkjʊpˈeɪʃən.|9
+ESD/0020/Happy/0020_001023.wav|wˌaɪ dˈɪd aɪ wˈeɪk ˈʌp!|9
+ESD/0020/Sad/0020_001071.wav|æz ɹˈɪtʃ æz pˈiːɾɚz sˈʌn ɪn lˈɔː!|9
+ESD/0020/Surprise/0020_001466.wav|ʃˌæl wiː lˈɛt bˈɑːɹbɚɹə ˈɪn?|9
+ESD/0020/Angry/0020_000501.wav|ˈɔːl ðə wˈeɪ tə tʃˈaɪnə ɪz hˈoʊm.|9
+ESD/0020/Neutral/0020_000222.wav|ˈæsk ɡˈɑːd tə hˈɛlp juː.|9
+ESD/0020/Happy/0020_000732.wav|hˌuː ɪz bˌɪn ɹᵻpˈiːɾɪŋ ˈɔːl ðæt hˈɑːɹd stˈʌf tə juː?|9
+ESD/0020/Neutral/0020_000252.wav|aɪɐm ɹˈʌn ˈɔf maɪ fˈiːt.|9
+ESD/0020/Surprise/0020_001478.wav|ðɪ ˈɑːɹt kwˈaɪt sˈeɪf wɪð mˌiː.|9
+ESD/0020/Angry/0020_000521.wav|aɪ sˈeɪ nˈiːðɚ jˈeɪ nˈɔːɹ nˈeɪ.|9
+ESD/0020/Sad/0020_001065.wav|pˈʊɹ tˈɑːm nˈaʊ ɪz dˈɛd!|9
+ESD/0020/Angry/0020_000475.wav|tə kˈætʃ ðæt bˈʊlɹʌʃ ɹˈuːt wɪð maɪ pˈɔː!|9
+ESD/0020/Happy/0020_000897.wav|fˈɜː flˈuː θɹuː ðɪ ˈɛɹ, tˈiːθ nˈæʃt.|9
+ESD/0020/Neutral/0020_000123.wav|aɪɐm fɹʌm tˈaʊəl lˈænd.|9
+ESD/0020/Sad/0020_001345.wav|aɪ nˈoʊ hˌaʊ tʊ oʊbˈeɪ ˈɔːɹdɚz.|9
+ESD/0020/Surprise/0020_001540.wav|wˌʌt ɐn ɪmpˈɛtʃuːəs bˈɔɪ hiː ɪz!|9
+ESD/0020/Angry/0020_000524.wav|aɪ pˈeɪ hˈæf ɐ kɹˈaʊn ɐ wˈiːk ˈɛkstɹə.|9
+ESD/0020/Happy/0020_000759.wav|zˈiəɹoʊ fˈoːɹ θɹˈiː ɐ sˈɪlvɚ ʃˈɪlɪŋ ɪz dʒˈɜːni.|9
+ESD/0020/Neutral/0020_000115.wav|hiː mˌaɪt kˈɔːl ɪt, fɔːɹ ɛɡzˈæmpəl.|9
+ESD/0020/Sad/0020_001188.wav|bˌʌt wˈʌn ɹᵻkwˈaɪɚz ðɪ ɛksplˈoːɹɚ tə fˈɜːnɪʃ pɹˈuːfs.|9
+ESD/0020/Surprise/0020_001441.wav|aɪ tʃˈoʊz ðə ɹˈaɪt wˈeɪ.|9
+ESD/0020/Angry/0020_000666.wav|ɐ θˈiːf ɪnðə nˈaɪt.|9
+ESD/0020/Neutral/0020_000319.wav|hˌaʊ kʊd aɪ dˈɪɡ bˈɜːɹoʊz wɪð ʃˈɔːɹt tˈoʊ nˈeɪlz?|9
+ESD/0020/Sad/0020_001103.wav|hiː wʌz stˈɪl ɪnðə fˈɔːɹɪst!|9
+ESD/0020/Surprise/0020_001579.wav|dˈeɪzi kɹˈiːmz wɪð pˈɪŋk ˈɛdʒᵻz.|9
+ESD/0020/Happy/0020_000964.wav|slˈæm ðə dˈoːɹz ænd wˈɛdʒ ðˌɛm!|9
+ESD/0020/Angry/0020_000388.wav|hˈoʊld ˌʌp maɪ tʃˈɪn, slˈoʊ ænd sˈɑːlɪd.|9
+ESD/0020/Happy/0020_000982.wav|ˈælɪs aɪ woʊnt fɚɡˈɛt ɪɾ ɐɡˈɛn.|9
+ESD/0020/Neutral/0020_000077.wav|bˌʌt aɪ sˈɔː juː wˈɔːkɪŋ.|9
+ESD/0020/Surprise/0020_001722.wav|ɐ spˈɛʃəl pˈɑːt tˈuː.|9
+ESD/0020/Sad/0020_001295.wav|dˈuː juː θˈɪŋk ɪts ɐ wˈuːzəl?|9
+ESD/0020/Angry/0020_000603.wav|aɪ hæv ɐ sˈuːθseɪɚ.|9
+ESD/0020/Happy/0020_000962.wav|aɪ bᵻlˈiːv juː ɑːɹ wˈʌn ʌv ðˌɛm!|9
+ESD/0020/Neutral/0020_000313.wav|ɡˈɪv mˌiː ɐ fˈaɪn fˈæt ɡˈuːs.|9
+ESD/0020/Sad/0020_001282.wav|wɪl kˈɔːl hɜː lˈɪli, fɔːɹ ʃˈɔːɹt.|9
+ESD/0020/Surprise/0020_001618.wav|aɪl sˈɛnd fɔːɹ tˈɑːm tə maɪ bˈuːdwɑːɹ.|9
+ESD/0020/Angry/0020_000395.wav|ðə nˈæstiɪst θˈɪŋz ðeɪ sˈɔː wɜː ðə kˈɑːbwɛbz.|9
+ESD/0020/Happy/0020_000714.wav|ˈæni plˈiːz plˈiːz dˈoʊnt hˈɜːt mˌiː!|9
+ESD/0020/Neutral/0020_000195.wav|ɐ bˈoʊt pˌʊt ˈaʊtɔnðə bˈeɪ.|9
+ESD/0020/Surprise/0020_001647.wav|ʃiː ænd ˈaɪ ɑːɹ ɹˈʌnɪŋ ɐ nˈɛk ænd nˈɛk ɹˈeɪs.|9
+ESD/0020/Sad/0020_001195.wav|ɹˈiːd baɪ ðə lˈɪvɪŋ pˈuːl!|9
+ESD/0020/Angry/0020_000640.wav|ðɛɹ ɡoʊz ðə ʃˈɔːl ɐɡˈɛn!|9
+ESD/0020/Happy/0020_000762.wav|tˈɑːm, wɛnt ˌɔn ˈiːjoːɹ ɡlˈuːmili.|9
+ESD/0020/Neutral/0020_000342.wav|wˌaɪ ʃˌʊd aɪ pˈɜːtʃɪs maɪ ˈoʊn?|9
+ESD/0020/Sad/0020_001151.wav|ɪts mˌiː pˈɪɡlɪt, hˈɛlp hˈɛlp!|9
+ESD/0020/Surprise/0020_001628.wav|ɪt sˈɛz nˈoʊ wˈeɪ! ʃˈaʊɾᵻd dˈeɪzi.|9
+ESD/0020/Angry/0020_000605.wav|ðɪs wʌzðə twˈɛnti fˈɪfθ ʌv noʊvˈɛmbɚ, sˈɛvəntˌiːn ˈeɪɾi θɹˈiː.|9
+ESD/0020/Happy/0020_000720.wav|æt ðə ɹˈuːtsəvə bˈʊʃ əvə ɡɹˈæs.|9
+ESD/0020/Neutral/0020_000150.wav|aɪ hˈoʊp juː ɛndʒˈɔɪd joːɹsˈɛlf?|9
+ESD/0020/Sad/0020_001060.wav|ɐ nˈɔːsɪəs dɹˈæft.|9
+ESD/0020/Surprise/0020_001517.wav|ðeɪ wɜː tʃˈɪldɹən ʌv mˈaɪn.|9
+ESD/0020/Angry/0020_000623.wav|aɪd dʒˈʌst æz sˈuːn swˈɪm jʊɹ wˈeɪ æz ˈʌðɚz dˈuː.|9
+ESD/0020/Happy/0020_000712.wav|hɜː ʃˈuːz wɜː lˈaɪk fˈɪʃᵻz.|9
