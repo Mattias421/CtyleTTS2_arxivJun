@@ -61,9 +61,23 @@ class EsdSplitTests(unittest.TestCase):
             paths = {record.wav_path for record in records}
             self.assertTrue(previous.issubset(paths))
             self.assertLessEqual(
-                abs(sum(record.duration_seconds for record in records) - minutes * 60),
-                1.5,
+                abs(
+                    sum(record.duration_seconds for record in records)
+                    - minutes * 60 * len(ENGLISH_SPEAKERS)
+                ),
+                1.5 * len(ENGLISH_SPEAKERS),
             )
+            for speaker in ENGLISH_SPEAKERS:
+                speaker_records = [
+                    record for record in records if record.speaker == speaker
+                ]
+                self.assertLessEqual(
+                    abs(
+                        sum(record.duration_seconds for record in speaker_records)
+                        - minutes * 60
+                    ),
+                    1.5,
+                )
             previous = paths
 
         for split_name in ("val", "test"):

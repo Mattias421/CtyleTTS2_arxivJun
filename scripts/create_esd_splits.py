@@ -35,7 +35,10 @@ class Utterance:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Create nested 1/5/15/30/60-minute ESD English manifests."
+        description=(
+            "Create nested 1/5/15/30/60-minute-per-speaker "
+            "ESD English manifests."
+        )
     )
     parser.add_argument("--esd-root", required=True, help="ESD directory containing wavs.")
     parser.add_argument(
@@ -207,12 +210,24 @@ def build_splits(
         (utterance.base_sentence_id for utterance in utterances), seed
     )
     eval_ids = set(validation_ids + test_ids)
-    order = balanced_training_order(
-        utterances, eval_ids, max(TARGET_MINUTES) * 60, seed
-    )
+    speaker_orders = {
+        speaker: balanced_training_order(
+            [utterance for utterance in utterances if utterance.speaker == speaker],
+            eval_ids,
+            max(TARGET_MINUTES) * 60,
+            seed,
+        )
+        for speaker in ENGLISH_SPEAKERS
+    }
 
     splits = {
-        f"train_{minutes}m": closest_duration_prefix(order, minutes * 60)
+        f"train_{minutes}m": [
+            utterance
+            for speaker in ENGLISH_SPEAKERS
+            for utterance in closest_duration_prefix(
+                speaker_orders[speaker], minutes * 60
+            )
+        ]
         for minutes in TARGET_MINUTES
     }
     splits["val"] = [
@@ -247,6 +262,17 @@ def split_summary(records: Sequence[Utterance]) -> dict[str, object]:
             sum(record.duration_seconds for record in records), 6
         ),
         "speakers": dict(sorted(Counter(record.speaker for record in records).items())),
+        "speaker_duration_seconds": {
+            speaker: round(
+                sum(
+                    record.duration_seconds
+                    for record in records
+                    if record.speaker == speaker
+                ),
+                6,
+            )
+            for speaker in sorted({record.speaker for record in records})
+        },
         "emotions": dict(sorted(Counter(record.emotion for record in records).items())),
         "speaker_emotions": {
             f"{speaker}/{emotion}": count
@@ -308,16 +334,36 @@ def validate_splits(splits: dict[str, list[Utterance]]) -> None:
         if not previous_paths.issubset(paths):
             raise ValueError(f"{split_name} is not nested with the smaller training split")
         previous_paths = paths
-        for attribute in ("speaker", "emotion"):
-            counts = Counter(getattr(record, attribute) for record in records)
-            if max(counts.values()) - min(counts.values()) > 1:
-                raise ValueError(f"{split_name} is imbalanced by {attribute}")
 
         target_minutes = int(split_name.removeprefix("train_").removesuffix("m"))
-        duration = sum(record.duration_seconds for record in records)
-        tolerance = max(record.duration_seconds for record in records) / 2
-        if abs(duration - target_minutes * 60) > tolerance:
-            raise ValueError(f"{split_name} is not the closest duration prefix")
+        for speaker in ENGLISH_SPEAKERS:
+            speaker_records = [
+                record for record in records if record.speaker == speaker
+            ]
+            if not speaker_records:
+                raise ValueError(f"{split_name} has no data for speaker {speaker}")
+            emotion_counts = Counter(
+                record.emotion for record in speaker_records
+            )
+            if set(emotion_counts) != set(EMOTIONS):
+                raise ValueError(
+                    f"{split_name} does not cover all emotions for speaker {speaker}"
+                )
+            if max(emotion_counts.values()) - min(emotion_counts.values()) > 1:
+                raise ValueError(
+                    f"{split_name} is emotion-imbalanced for speaker {speaker}"
+                )
+
+            duration = sum(
+                record.duration_seconds for record in speaker_records
+            )
+            tolerance = max(
+                record.duration_seconds for record in speaker_records
+            ) / 2
+            if abs(duration - target_minutes * 60) > tolerance:
+                raise ValueError(
+                    f"{split_name} misses the duration target for speaker {speaker}"
+                )
 
     train_paths = {record.wav_path for record in splits[train_names[-1]]}
     val_paths = {record.wav_path for record in splits["val"]}
